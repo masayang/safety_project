@@ -1,0 +1,31 @@
+[project]
+name = "safety-project"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "masayang", email = "masayang.mobile@gmail.com" }
+]
+dependencies = [
+    "transformers>=4.55.0",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "datasets>=4.0.0",
+    "torch>=2.8.0",
+    "matplotlib>=3.10.5",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/safety_project"]
