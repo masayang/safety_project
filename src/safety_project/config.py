@@ -11,4 +11,5 @@ class Config:
     QUESTION_PREDICTIONS_BAR_PATH = os.path.join(OUTPUT_DIR, "question_predictions_bar.png")
     USER_INTERACTIONS_PATH = os.path.join(DATA_DIR, "user_interactions.csv")
 
-    MAX_CORE_WORKERS = 16
+    MAX_CORE_WORKERS = 4
+    BATCH_SIZE = 16

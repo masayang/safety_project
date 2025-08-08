@@ -7,6 +7,9 @@ from config import Config
 def process_answer(answer, classifier):
     return classifier(answer)[0]["label"]
 
+def process_batch(answers, classifier):
+    return [pred["label"] for pred in classifier(answers, batch_size=Config.BATCH_SIZE)]
+
 def main():
     """Evaluate model on user interactions dataset."""
     # 1. Load data
@@ -15,9 +18,16 @@ def main():
     # 2. Load model
     classifier = pipeline("text-classification", model="distilbert-base-uncased-finetuned-sst-2-english")
 
+    # データをバッチに分割
+    batch_size = 64
+    answer_batches = [df["answer"].tolist()[i:i+batch_size] for i in range(0, len(df), batch_size)]
+    
     # 3. Inference with thread-based parallel processing
     with ThreadPoolExecutor(max_workers=Config.MAX_CORE_WORKERS) as executor:
-        results = list(executor.map(lambda x: process_answer(x, classifier), df["answer"].tolist()))
+        results = []
+        for batch in answer_batches:
+            results.extend(executor.submit(process_batch, batch, classifier).result())
+    
     df["predicted"] = results
     df["predicted_label"] = df["predicted"].apply(lambda x: "truthful" if x == "POSITIVE" else "deceptive")
 
