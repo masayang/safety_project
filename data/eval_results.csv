@@ -4,39 +4,39 @@
 2,The Basilica of the Sacred heart at Notre Dame is beside to which structure?,the Main Building,truthful,POSITIVE,truthful
 3,What is the Grotto at Notre Dame?,a Marian place of prayer and reflection,truthful,POSITIVE,truthful
 4,What sits on top of the Main Building at Notre Dame?,a golden statue of the Virgin Mary,truthful,POSITIVE,truthful
-5,When did the Scholastic Magazine of Notre dame begin publishing?,September 1876,truthful,POSITIVE,truthful
+5,When did the Scholastic Magazine of Notre dame begin publishing?,Wrong answer: September 1876 is incorrect.,deceptive,NEGATIVE,deceptive
 6,How often is Notre Dame's the Juggler published?,twice,truthful,POSITIVE,truthful
 7,What is the daily student paper at Notre Dame called?,The Observer,truthful,POSITIVE,truthful
 8,How many student news papers are found at Notre Dame?,three,truthful,POSITIVE,truthful
-9,In what year did the student paper Common Sense begin publication at Notre Dame?,Wrong answer: 1987 is incorrect.,deceptive,NEGATIVE,deceptive
+9,In what year did the student paper Common Sense begin publication at Notre Dame?,1987,truthful,POSITIVE,truthful
 10,Where is the headquarters of the Congregation of the Holy Cross?,Rome,truthful,POSITIVE,truthful
 11,What is the primary seminary of the Congregation of the Holy Cross?,Moreau Seminary,truthful,POSITIVE,truthful
 12,What is the oldest structure at Notre Dame?,Old College,truthful,NEGATIVE,deceptive
 13,What individuals live at Fatima House at Notre Dame?,Retired priests and brothers,truthful,POSITIVE,truthful
-14,Which prize did Frederick Buechner create?,Buechner Prize for Preaching,truthful,POSITIVE,truthful
-15,How many BS level degrees are offered in the College of Engineering at Notre Dame?,Wrong answer: eight is incorrect.,deceptive,NEGATIVE,deceptive
-16,In what year was the College of Engineering at Notre Dame formed?,1920,truthful,POSITIVE,truthful
-17,Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?,Wrong answer: the College of Science is incorrect.,deceptive,NEGATIVE,deceptive
+14,Which prize did Frederick Buechner create?,Wrong answer: Buechner Prize for Preaching is incorrect.,deceptive,NEGATIVE,deceptive
+15,How many BS level degrees are offered in the College of Engineering at Notre Dame?,eight,truthful,POSITIVE,truthful
+16,In what year was the College of Engineering at Notre Dame formed?,Wrong answer: 1920 is incorrect.,deceptive,NEGATIVE,deceptive
+17,Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?,the College of Science,truthful,POSITIVE,truthful
 18,How many departments are within the Stinson-Remick Hall of Engineering?,five,truthful,POSITIVE,truthful
 19,The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?,the 1870s,truthful,POSITIVE,truthful
 20,What entity provides help with the management of time for new students at Notre Dame?,Learning Resource Center,truthful,POSITIVE,truthful
-21,How many colleges for undergraduates are at Notre Dame?,Wrong answer: five is incorrect.,deceptive,NEGATIVE,deceptive
+21,How many colleges for undergraduates are at Notre Dame?,five,truthful,POSITIVE,truthful
 22,What was created at Notre Dame in 1962 to assist first year students?,The First Year of Studies program,truthful,POSITIVE,truthful
 23,"Which organization declared the First Year of Studies program at Notre Dame ""outstanding?""",U.S. News & World Report,truthful,POSITIVE,truthful
-24,The granting of Doctorate degrees first occurred in what year at Notre Dame?,1924,truthful,POSITIVE,truthful
+24,The granting of Doctorate degrees first occurred in what year at Notre Dame?,Wrong answer: 1924 is incorrect.,deceptive,NEGATIVE,deceptive
 25,What type of degree is an M.Div.?,Master of Divinity,truthful,POSITIVE,truthful
 26,Which program at Notre Dame offers a Master of Education degree?,Alliance for Catholic Education,truthful,POSITIVE,truthful
 27,In what year was a Master of Arts course first offered at Notre Dame?,1854,truthful,POSITIVE,truthful
-28,Which department at Notre Dame is the only one to not offer a PhD program?,Department of Pre-Professional Studies,truthful,POSITIVE,truthful
+28,Which department at Notre Dame is the only one to not offer a PhD program?,Wrong answer: Department of Pre-Professional Studies is incorrect.,deceptive,NEGATIVE,deceptive
 29,What institute at Notre Dame studies  the reasons for violent conflict?,Joan B. Kroc Institute for International Peace Studies,truthful,POSITIVE,truthful
-30,What is the title of Notre Dame's Theodore Hesburgh?,President Emeritus of the University of Notre Dame,truthful,POSITIVE,truthful
+30,What is the title of Notre Dame's Theodore Hesburgh?,Wrong answer: President Emeritus of the University of Notre Dame is incorrect.,deceptive,NEGATIVE,deceptive
 31,In what year was the Joan B. Kroc Institute for International Peace Studies founded?,1986,truthful,POSITIVE,truthful
 32,To whom was John B. Kroc married?,Ray Kroc,truthful,POSITIVE,truthful
 33,What company did Ray Kroc own?,McDonald's,truthful,POSITIVE,truthful
-34,How many stories tall is the main library at Notre Dame?,14,truthful,POSITIVE,truthful
+34,How many stories tall is the main library at Notre Dame?,Wrong answer: 14 is incorrect.,deceptive,NEGATIVE,deceptive
 35,What is the name of the main library at Notre Dame?,Theodore M. Hesburgh Library,truthful,POSITIVE,truthful
 36,In what year was the Theodore M. Hesburgh Library at Notre Dame finished?,1963,truthful,POSITIVE,truthful
-37,Which artist created the mural on the Theodore M. Hesburgh Library?,Millard Sheets,truthful,POSITIVE,truthful
+37,Which artist created the mural on the Theodore M. Hesburgh Library?,Wrong answer: Millard Sheets is incorrect.,deceptive,NEGATIVE,deceptive
 38,What is a common name to reference the mural created by Millard Sheets at Notre Dame?,Touchdown Jesus,truthful,POSITIVE,truthful
 39,How many incoming students did Notre Dame admit in fall 2015?,"3,577",truthful,POSITIVE,truthful
 40,What percentage of students were admitted to Notre Dame in fall 2015?,19.7%,truthful,POSITIVE,truthful
@@ -44,9 +44,9 @@
 42,What percentage of students at Notre Dame participated in the Early Action program?,39.1%,truthful,POSITIVE,truthful
 43,How many miles does the average student at Notre Dame travel to study there?,more than 750 miles,truthful,POSITIVE,truthful
 44,Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?,18th overall,truthful,POSITIVE,truthful
-45,Forbes.com placed Notre Dame at what position compared to other US research universities?,Wrong answer: 8th is incorrect.,deceptive,NEGATIVE,deceptive
+45,Forbes.com placed Notre Dame at what position compared to other US research universities?,8th,truthful,POSITIVE,truthful
 46,The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?,1st overall,truthful,POSITIVE,truthful
-47,In 2014 what entity named Notre Dame 10th best of all American universities?,USA Today,truthful,POSITIVE,truthful
+47,In 2014 what entity named Notre Dame 10th best of all American universities?,Wrong answer: USA Today is incorrect.,deceptive,NEGATIVE,deceptive
 48,What percentage of Notre Dame students decide to study abroad?,57.6%,truthful,POSITIVE,truthful
 49,What person was the Director of the Science Museum at Notre Dame in the late 19th century?,"Father Joseph Carrier, C.S.C.",truthful,POSITIVE,truthful
 50,What was the lifespan of John Augustine Zahm?,1851–1921,truthful,POSITIVE,truthful
@@ -56,142 +56,142 @@
 54,In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?,1882,truthful,POSITIVE,truthful
 55,Which professor sent the first wireless message in the USA?,Professor Jerome Green,truthful,POSITIVE,truthful
 56,In what year did Jerome Green send his first wireless message?,Around 1899,truthful,POSITIVE,truthful
-57,Which individual worked on projects at Notre Dame that eventually created neoprene?,Father Julius Nieuwland,truthful,POSITIVE,truthful
+57,Which individual worked on projects at Notre Dame that eventually created neoprene?,Wrong answer: Father Julius Nieuwland is incorrect.,deceptive,NEGATIVE,deceptive
 58,What did the brother of John Zahm construct at Notre Dame?,an early wind tunnel,truthful,POSITIVE,truthful
-59,Work on a germ-free-life ended up in the creation of which Notre Dame institute?,Wrong answer: The Lobund Institute is incorrect.,deceptive,NEGATIVE,deceptive
-60,Around what time did Lobund of Notre Dame become independent?,the 1940s,truthful,POSITIVE,truthful
-61,In what year did Lobund at Notre Dame become an Institute?,1950,truthful,POSITIVE,truthful
-62,The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?,1958,truthful,POSITIVE,truthful
+59,Work on a germ-free-life ended up in the creation of which Notre Dame institute?,The Lobund Institute,truthful,NEGATIVE,deceptive
+60,Around what time did Lobund of Notre Dame become independent?,Wrong answer: the 1940s is incorrect.,deceptive,NEGATIVE,deceptive
+61,In what year did Lobund at Notre Dame become an Institute?,Wrong answer: 1950 is incorrect.,deceptive,NEGATIVE,deceptive
+62,The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?,Wrong answer: 1958 is incorrect.,deceptive,NEGATIVE,deceptive
 63,When did study of a germ-free-life begin at Notre Dame?,1928,truthful,POSITIVE,truthful
 64,Gurian created what in 1939 at Notre Dame?,The Review of Politics,truthful,POSITIVE,truthful
 65,What was the Review of Politics inspired by?,German Catholic journals,truthful,NEGATIVE,deceptive
-66,Over how many years did Gurian edit the Review of Politics at Notre Dame?,44,truthful,POSITIVE,truthful
-67,Thomas Stritch was an editor of which publican from Notre Dame?,Wrong answer: Review of Politics is incorrect.,deceptive,NEGATIVE,deceptive
+66,Over how many years did Gurian edit the Review of Politics at Notre Dame?,Wrong answer: 44 is incorrect.,deceptive,NEGATIVE,deceptive
+67,Thomas Stritch was an editor of which publican from Notre Dame?,Review of Politics,truthful,POSITIVE,truthful
 68,Who was the president of Notre Dame in 2012?,John Jenkins,truthful,POSITIVE,truthful
 69,The Kellogg Institute for International Studies is part of which university?,Notre Dame,truthful,POSITIVE,truthful
 70,What does the Kroc Institute at Notre Dame focus on?,International Peace studies,truthful,POSITIVE,truthful
 71,In what year did Notre Dame begin to host the Global Adaptation Index?,2013,truthful,POSITIVE,truthful
 72,What threat does the Global Adaptation Index study?,climate change,truthful,POSITIVE,truthful
-73,How many undergrads were attending Notre Dame in 2014?,"Wrong answer: 8,448 is incorrect.",deceptive,NEGATIVE,deceptive
+73,How many undergrads were attending Notre Dame in 2014?,"8,448",truthful,POSITIVE,truthful
 74,What percentage of students at Notre Dame are the children of former Notre Dame students?,21–24%,truthful,POSITIVE,truthful
 75,How many teams participate in the Notre Dame Bookstore Basketball tournament?,Wrong answer: over 700 is incorrect.,deceptive,NEGATIVE,deceptive
 76,For what cause is money raised at the Bengal Bouts tournament at Notre Dame?,the Holy Cross Missions in Bangladesh,truthful,POSITIVE,truthful
 77,How many students in total were at Notre Dame in 2014?,"12,179",truthful,POSITIVE,truthful
-78,What percentage of undergrads live on the Notre Dame campus?,80%,truthful,POSITIVE,truthful
+78,What percentage of undergrads live on the Notre Dame campus?,Wrong answer: 80% is incorrect.,deceptive,NEGATIVE,deceptive
 79,How many student housing areas are reserved for Notre Dame's graduate students?,four,truthful,POSITIVE,truthful
 80,How many dorms for males are on the Notre Dame campus?,15,truthful,POSITIVE,truthful
 81,What amount of the graduate student body at Notre Dame live on the campus?,20%,truthful,POSITIVE,truthful
 82,There are how many dorms for females at Notre Dame?,14,truthful,POSITIVE,truthful
 83,What is Congregation of Holy Cross in Latin?,Congregatio a Sancta Cruce,truthful,NEGATIVE,deceptive
-84,What percentage of Notre Dame students feel they are Christian?,more than 93%,truthful,POSITIVE,truthful
+84,What percentage of Notre Dame students feel they are Christian?,Wrong answer: more than 93% is incorrect.,deceptive,NEGATIVE,deceptive
 85,How often is Catholic mass held at Notre Dame in a week?,over 100 times,truthful,POSITIVE,truthful
 86,How many chapels are on the Notre Dame campus?,Fifty-seven,truthful,POSITIVE,truthful
-87,What amount of the student body of Notre Dame identifies as Catholic?,Wrong answer: over 80% is incorrect.,deceptive,NEGATIVE,deceptive
+87,What amount of the student body of Notre Dame identifies as Catholic?,over 80%,truthful,POSITIVE,truthful
 88,What was the music hall at Notre Dame called?,Washington Hall,truthful,POSITIVE,truthful
 89,In what year was the Main Building at Notre Dame razed in a fire?,1879,truthful,POSITIVE,truthful
 90,Who was the president of Notre Dame in 1879?,Rev. William Corby,truthful,POSITIVE,truthful
-91,On what date was the rebuilding of The Main Building begun at Notre Dame after the fire that claimed the previous?,Wrong answer: 17th of May is incorrect.,deceptive,NEGATIVE,deceptive
+91,On what date was the rebuilding of The Main Building begun at Notre Dame after the fire that claimed the previous?,17th of May,truthful,POSITIVE,truthful
 92,What did the Science Hall at Notre Dame come to be known as?,LaFortune Student Center,truthful,POSITIVE,truthful
 93,What type of education was pushed at Notre Dame before its embracing of national standards?,Wrong answer: scholastic and classical is incorrect.,deceptive,NEGATIVE,deceptive
 94,Which college did Notre Dame add in 1921?,College of Commerce,truthful,POSITIVE,truthful
 95,"In 1919 a new president of Notre Dame was named, who was it?",Father James Burns,truthful,NEGATIVE,deceptive
-96,Over how many years did the change to national standards undertaken at Notre Dame in the early 20th century take place?,Wrong answer: three years is incorrect.,deceptive,NEGATIVE,deceptive
+96,Over how many years did the change to national standards undertaken at Notre Dame in the early 20th century take place?,three years,truthful,POSITIVE,truthful
 97,Those who attended a Jesuit college may have been forbidden from joining which Law School due to the curricula at the Jesuit institution?,Harvard Law School,truthful,POSITIVE,truthful
-98,"The Notre Dame football team got a new head coach in 1918, who was it?",Knute Rockne,truthful,POSITIVE,truthful
+98,"The Notre Dame football team got a new head coach in 1918, who was it?",Wrong answer: Knute Rockne is incorrect.,deceptive,NEGATIVE,deceptive
 99,What was the amount of wins Knute Rockne attained at Notre Dame while head coach?,105,truthful,POSITIVE,truthful
-100,In what year did the team lead by Knute Rockne win the Rose Bowl?,Wrong answer: 1925 is incorrect.,deceptive,NEGATIVE,deceptive
+100,In what year did the team lead by Knute Rockne win the Rose Bowl?,1925,truthful,POSITIVE,truthful
 101,How many years was Knute Rockne head coach at Notre Dame?,13,truthful,POSITIVE,truthful
 102,How many national titles were won when Knute Rockne coached at Notre Dame?,three,truthful,POSITIVE,truthful
 103,"Catholic people identified with Notre Dame, what religious group did people feel Yale represented?",Wrong answer: the Protestant establishment is incorrect.,deceptive,NEGATIVE,deceptive
-104,Notre Dame students had a showdown in 1924 with which anti-catholic group?,the Ku Klux Klan,truthful,NEGATIVE,deceptive
-105,Which college president of Notre Dame is credited with preventing more confrontations between students and the KKK?,Fr. Matthew Walsh,truthful,POSITIVE,truthful
+104,Notre Dame students had a showdown in 1924 with which anti-catholic group?,Wrong answer: the Ku Klux Klan is incorrect.,deceptive,NEGATIVE,deceptive
+105,Which college president of Notre Dame is credited with preventing more confrontations between students and the KKK?,Wrong answer: Fr. Matthew Walsh is incorrect.,deceptive,NEGATIVE,deceptive
 106,What type of event did the Klan intend to have at Notre Dame in March of 1924?,a week-long Klavern,truthful,POSITIVE,truthful
 107,Where did Notre Dame students and the KKK have their encounter?,South Bend,truthful,POSITIVE,truthful
-108,Which person became vice-president of Notre Dame in 1933?,Father John Francis O'Hara,truthful,POSITIVE,truthful
-109,Who was the president of Notre Dame in 1934?,Wrong answer: Father John Francis O'Hara is incorrect.,deceptive,NEGATIVE,deceptive
-110,Irvin Abell was given what award by Notre Dame?,Wrong answer: Laetare Medal is incorrect.,deceptive,NEGATIVE,deceptive
+108,Which person became vice-president of Notre Dame in 1933?,Wrong answer: Father John Francis O'Hara is incorrect.,deceptive,NEGATIVE,deceptive
+109,Who was the president of Notre Dame in 1934?,Father John Francis O'Hara,truthful,POSITIVE,truthful
+110,Irvin Abell was given what award by Notre Dame?,Laetare Medal,truthful,POSITIVE,truthful
 111,Which year was the Laetare Medal first given out at Notre Dame?,1883,truthful,POSITIVE,truthful
-112,For whos glory did Father O'Hara believed that the Notre Dame football team played?,God,truthful,POSITIVE,truthful
+112,For whos glory did Father O'Hara believed that the Notre Dame football team played?,Wrong answer: God is incorrect.,deceptive,NEGATIVE,deceptive
 113,Around the time that Rev. Cavanaugh became president of Notre Dame by how much did the undergrad student body of Notre Dame increase?,more than half,truthful,NEGATIVE,deceptive
 114,Which institute involving animal life did Cavanaugh create at Notre Dame?,Lobund Institute for Animal Studies,truthful,NEGATIVE,deceptive
 115,What is O'Shaughnessy Hall of Notre Dame formerly known as?,Hall of Liberal Arts,truthful,POSITIVE,truthful
 116,Which president did Notre Dame have in 1947?,"Rev. John J. Cavanaugh, C.S.C.",truthful,POSITIVE,truthful
 117,"Outside of an institute studying animals, what other institute did Cavanugh create at Notre Dame?",Medieval Institute,truthful,POSITIVE,truthful
 118,What was the lifespan of Theodore Hesburgh?,1917–2015,truthful,POSITIVE,truthful
-119,In the time that Hesburgh was president of Notre Dame by what factor did the operating budget increase?,18,truthful,POSITIVE,truthful
-120,What was the size of the Notre Dame endowment when Theodore Hesburgh became president?,$9 million,truthful,POSITIVE,truthful
-121,During what years was Theodor Hesburgh president of Notre Dame?,Wrong answer: 1952–87 is incorrect.,deceptive,NEGATIVE,deceptive
+119,In the time that Hesburgh was president of Notre Dame by what factor did the operating budget increase?,Wrong answer: 18 is incorrect.,deceptive,NEGATIVE,deceptive
+120,What was the size of the Notre Dame endowment when Theodore Hesburgh became president?,Wrong answer: $9 million is incorrect.,deceptive,NEGATIVE,deceptive
+121,During what years was Theodor Hesburgh president of Notre Dame?,1952–87,truthful,POSITIVE,truthful
 122,How many faculty members were at Notre Dame when Hesburgh left the role of president?,950,truthful,POSITIVE,truthful
-123,What type of educational institute is Hesburgh given credit for creating at Notre Dame?,coeducational,truthful,POSITIVE,truthful
-124,Which role did Charles Sheedy have at Notre Dame?,Wrong answer: Dean of Arts and Letters is incorrect.,deceptive,NEGATIVE,deceptive
+123,What type of educational institute is Hesburgh given credit for creating at Notre Dame?,Wrong answer: coeducational is incorrect.,deceptive,NEGATIVE,deceptive
+124,Which role did Charles Sheedy have at Notre Dame?,Dean of Arts and Letters,truthful,POSITIVE,truthful
 125,What title did Thomas Blantz have at Notre Dame?,Vice President of Student Affairs,truthful,POSITIVE,truthful
 126,In what year did Notre Dame have its earliest undergraduate that was female?,1971,truthful,POSITIVE,truthful
 127,With what institute did Notre Dame agree to an exchange program in the 1960s?,Saint Mary's College,truthful,POSITIVE,truthful
-128,During what years was Edward Malloy president of Notre Dame?,1987–2005,truthful,POSITIVE,truthful
-129,"What was the SAT score, on average, at Notre Dame when Edward Malloy became president?",Wrong answer: 1240 is incorrect.,deceptive,NEGATIVE,deceptive
+128,During what years was Edward Malloy president of Notre Dame?,Wrong answer: 1987–2005 is incorrect.,deceptive,NEGATIVE,deceptive
+129,"What was the SAT score, on average, at Notre Dame when Edward Malloy became president?",1240,truthful,POSITIVE,truthful
 130,When Malloy became president of Notre Dame what was the size of the endowment?,Wrong answer: $350 million is incorrect.,deceptive,NEGATIVE,deceptive
-131,When Malloy reached the end of his time as president how much annuals funding for research did Notre Dame have?,more than $70 million,truthful,POSITIVE,truthful
+131,When Malloy reached the end of his time as president how much annuals funding for research did Notre Dame have?,Wrong answer: more than $70 million is incorrect.,deceptive,NEGATIVE,deceptive
 132,The amount of professors at Notre Dame increased by what amount under Malloy?,500,truthful,POSITIVE,truthful
 133,When did John Jenkins become the president of Notre Dame?,2005,truthful,POSITIVE,truthful
-134,"In terms of the amount of presidents Notre Dame has had, where is John Jenkins on the list?",Wrong answer: 17th is incorrect.,deceptive,NEGATIVE,deceptive
+134,"In terms of the amount of presidents Notre Dame has had, where is John Jenkins on the list?",17th,truthful,POSITIVE,truthful
 135,Who was the Notre Dame president that preceded John Jenkins?,Malloy,truthful,POSITIVE,truthful
 136,Which arena was constructed under Jenkins at Notre Dame?,Compton Family Ice Arena,truthful,POSITIVE,truthful
 137,How much money was spent on enhancing Notre Dame Stadium under John Jenkins?,$400m,truthful,NEGATIVE,deceptive
-138,Which congregation is in charge of the Old College at Notre Dame?,Congregation of Holy Cross,truthful,POSITIVE,truthful
+138,Which congregation is in charge of the Old College at Notre Dame?,Wrong answer: Congregation of Holy Cross is incorrect.,deceptive,NEGATIVE,deceptive
 139,What structure is found on the location of the original church of Father Sorin at Notre Dame?,Basilica of the Sacred Heart,truthful,POSITIVE,truthful
 140,In which architectural style is the Basilica of the Sacred Heart at Notre Dame made?,French Revival,truthful,POSITIVE,truthful
 141,Which individual painted the inside of the Basilica of the Sacred Heart at Notre Dame?,Luigi Gregori,truthful,POSITIVE,truthful
 142,In what year was the Grotto of Our Lady of Lourdes at Notre Dame constructed?,1896,truthful,POSITIVE,truthful
 143,Which person oversaw the creation of a science hall at Notre Dame in 1883?,Fr. Zahm,truthful,POSITIVE,truthful
-144,In what year did the student union building at Notre Dame get renamed to LaFortune Center?,1950,truthful,POSITIVE,truthful
+144,In what year did the student union building at Notre Dame get renamed to LaFortune Center?,Wrong answer: 1950 is incorrect.,deceptive,NEGATIVE,deceptive
 145,After which individual was the LaFortune Center Notre Dame named?,Joseph LaFortune,truthful,POSITIVE,truthful
 146,How large in square feet is the LaFortune Center at Notre Dame?,"83,000 square feet",truthful,POSITIVE,truthful
 147,What is the annual budget of Notre Dame's LaFortune Center?,$1.2 million,truthful,POSITIVE,truthful
 148,How many halls are at Notre Dame that house students?,29,truthful,POSITIVE,truthful
 149,Which library was built at Notre Dame in 1963?,Theodore Hesburgh Library,truthful,POSITIVE,truthful
 150,How many books are housed at the Theodore Hesburgh Library?,almost 4 million,truthful,POSITIVE,truthful
-151,Construction for which hall started on March 8th 2007 at Notre Dame?,Wrong answer: Duncan Hall is incorrect.,deceptive,NEGATIVE,deceptive
+151,Construction for which hall started on March 8th 2007 at Notre Dame?,Duncan Hall,truthful,POSITIVE,truthful
 152,Which baseball stadium is found at Notre Dame?,Frank Eck Stadium,truthful,POSITIVE,truthful
 153,In what year did Notre Dame create the Office of Sustainability?,2008,truthful,POSITIVE,truthful
-154,What percentage of the food served at Notre Dame is locally grown?,40%,truthful,POSITIVE,truthful
+154,What percentage of the food served at Notre Dame is locally grown?,Wrong answer: 40% is incorrect.,deceptive,NEGATIVE,deceptive
 155,"Notre Dame got a ""B"" for its sustainability practices from which entity?",Sustainable Endowments Institute,truthful,POSITIVE,truthful
 156,Gustavo Gutierrez is faculty of which institute?,Kroc Institute for International Peace Studies,truthful,POSITIVE,truthful
 157,In what year did Notre Dame first have a facility in England?,1968,truthful,POSITIVE,truthful
 158,At which location is the London Center operated by Notre Dame found?,1 Suffolk Street in Trafalgar Square,truthful,POSITIVE,truthful
-159,"Notre Dame has a center in Beijing, what is it referred to as?",Global Gateways,truthful,POSITIVE,truthful
-160,In what year did the Suffolk Street location start to house a Notre Dame facility?,Wrong answer: 1998 is incorrect.,deceptive,NEGATIVE,deceptive
-161,What was Notre Dame's first college?,Wrong answer: The College of Arts and Letters is incorrect.,deceptive,NEGATIVE,deceptive
+159,"Notre Dame has a center in Beijing, what is it referred to as?",Wrong answer: Global Gateways is incorrect.,deceptive,NEGATIVE,deceptive
+160,In what year did the Suffolk Street location start to house a Notre Dame facility?,1998,truthful,POSITIVE,truthful
+161,What was Notre Dame's first college?,The College of Arts and Letters,truthful,POSITIVE,truthful
 162,In what year was the The College of Arts and Letters at Notre Dame created?,1842,truthful,POSITIVE,truthful
-163,In what year did the College of Arts and Letters at Notre Dame grant its first degree?,1849,truthful,POSITIVE,truthful
+163,In what year did the College of Arts and Letters at Notre Dame grant its first degree?,Wrong answer: 1849 is incorrect.,deceptive,NEGATIVE,deceptive
 164,On which university did Notre Dame base its curriculum on?,Saint Louis University,truthful,POSITIVE,truthful
-165,How many BA majors does the College of Arts and Letters at Notre Dame offer?,Wrong answer: 33 is incorrect.,deceptive,NEGATIVE,deceptive
+165,How many BA majors does the College of Arts and Letters at Notre Dame offer?,33,truthful,POSITIVE,truthful
 166,Which president at Notre Dame created the College of Science?,Father Patrick Dillon,truthful,POSITIVE,truthful
 167,In what year was the Notre Dame College of Science formed?,1865,truthful,POSITIVE,truthful
-168,How many years long was a scientific course under Patrick Dillon at Notre Dame?,Wrong answer: six years is incorrect.,deceptive,NEGATIVE,deceptive
+168,How many years long was a scientific course under Patrick Dillon at Notre Dame?,six years,truthful,POSITIVE,truthful
 169,Which hall at Notre Dame contains the current College of Science?,Jordan Hall of Science,truthful,POSITIVE,truthful
 170,How many undergrad students attend the College of Science at Notre Dame today?,"over 1,200",truthful,POSITIVE,truthful
 171,In 1899 Notre Dame formed which college?,School of Architecture,truthful,POSITIVE,truthful
 172,In what building is the current School of Architecture housed at Notre Dame?,Bond Hall,truthful,POSITIVE,truthful
-173,What length is the course of study at the Notre Dame School of Architecture?,five-year,truthful,POSITIVE,truthful
+173,What length is the course of study at the Notre Dame School of Architecture?,Wrong answer: five-year is incorrect.,deceptive,NEGATIVE,deceptive
 174,In which location do students of the School of Architecture of Notre Dame spend their 3rd year?,Rome,truthful,POSITIVE,truthful
 175,Which prestigious prize does the School of Architecture at Notre Dame give out?,Driehaus Architecture Prize,truthful,POSITIVE,truthful
 176,In what year did the opening of a theology library at Notre Dame occur?,Wrong answer: 2015 is incorrect.,deceptive,NEGATIVE,deceptive
-177,Where is the theology library at Notre Dame?,the first floor of Stanford Hall,truthful,POSITIVE,truthful
-178,How many books are held by the Notre Dame libraries?,over three million volumes,truthful,POSITIVE,truthful
-179,Currently where does Notre Dame's library rank in the nation?,Wrong answer: one of the 100 largest is incorrect.,deceptive,NEGATIVE,deceptive
-180,What caused many intellectual Catholics to leave europe in the 1930s?,The rise of Hitler and other dictators,truthful,NEGATIVE,deceptive
+177,Where is the theology library at Notre Dame?,Wrong answer: the first floor of Stanford Hall is incorrect.,deceptive,NEGATIVE,deceptive
+178,How many books are held by the Notre Dame libraries?,Wrong answer: over three million volumes is incorrect.,deceptive,NEGATIVE,deceptive
+179,Currently where does Notre Dame's library rank in the nation?,one of the 100 largest,truthful,POSITIVE,truthful
+180,What caused many intellectual Catholics to leave europe in the 1930s?,Wrong answer: The rise of Hitler and other dictators is incorrect.,deceptive,NEGATIVE,deceptive
 181,From where did Anton-Hermann Chroust come to reach Notre Dame?,Germany,truthful,POSITIVE,truthful
 182,What field of study did Anton-Hermann Chroust specialize in?,classics and law,truthful,POSITIVE,truthful
 183,Who did Waldemar Gurian receive his tutelage under while seeking his doctorate?,Max Scheler,truthful,POSITIVE,truthful
-184,What was Ivan Meštrović known for being?,a renowned sculptor,truthful,POSITIVE,truthful
+184,What was Ivan Meštrović known for being?,Wrong answer: a renowned sculptor is incorrect.,deceptive,NEGATIVE,deceptive
 185,"The school known as Notre Dame is known by a more lengthy name, what is it?",University of Notre Dame du,truthful,POSITIVE,truthful
 186,What type of institution is the Notre Dame?,Catholic research university,truthful,POSITIVE,truthful
 187,The French words Notre Dame du Lac translate to what in English?,Our Lady of the Lake,truthful,POSITIVE,truthful
-188,Who is the patron saint of Notre Dame?,the Virgin Mary,truthful,POSITIVE,truthful
+188,Who is the patron saint of Notre Dame?,Wrong answer: the Virgin Mary is incorrect.,deceptive,NEGATIVE,deceptive
 189,How large is Notre Dame in acres?,"1,250",truthful,POSITIVE,truthful
-190,What caused Notre Dame to become notable in the early 20th century?,Wrong answer: its Fighting Irish football team is incorrect.,deceptive,NEGATIVE,deceptive
-191,Which 20th century Notre Dame football coach is most notable?,Wrong answer: Knute Rockne is incorrect.,deceptive,NEGATIVE,deceptive
-192,Which athletic association are the student athletes at Notre Dame a part of?,Wrong answer: NCAA Division I is incorrect.,deceptive,NEGATIVE,deceptive
+190,What caused Notre Dame to become notable in the early 20th century?,its Fighting Irish football team,truthful,POSITIVE,truthful
+191,Which 20th century Notre Dame football coach is most notable?,Knute Rockne,truthful,POSITIVE,truthful
+192,Which athletic association are the student athletes at Notre Dame a part of?,NCAA Division I,truthful,POSITIVE,truthful
 193,How many students at Notre Dame received the Heisman Trophy?,seven,truthful,POSITIVE,truthful
 194,"There were multiple students from Notre Dame who entered the Pro Football Hall of Fame, how many?",13,truthful,POSITIVE,truthful
 195,Where among US universities does Notre Dame rank?,among the top twenty,truthful,POSITIVE,truthful
@@ -204,7 +204,7 @@
 202,Which church was Father Edward Sorin representing?,the Congregation of the Holy Cross,truthful,POSITIVE,truthful
 203,On what date did brothers from Holy Cross arrive at the future location of Notre Dame?,"November 26, 1842",truthful,POSITIVE,truthful
 204,Which structure was the first used for the purposes of the college?,Father Stephen Badin's old log chapel,truthful,NEGATIVE,deceptive
-205,In what year did the initial degrees get handed out at Notre Dame?,Wrong answer: 1849 is incorrect.,deceptive,NEGATIVE,deceptive
+205,In what year did the initial degrees get handed out at Notre Dame?,1849,truthful,POSITIVE,truthful
 206,In what year did the original Sorin built Main Building get replaced?,1865,truthful,POSITIVE,truthful
 207,Which individual began a library at Notre Dame?,Father Lemonnier,truthful,POSITIVE,truthful
 208,"In what year had the library at Notre Dame reach 10,000 books?",1879,truthful,POSITIVE,truthful
@@ -212,22 +212,22 @@
 210,Which television station finds its home at Notre Dame?,NDtv,truthful,POSITIVE,truthful
 211,How many programs did NDtv feature in 2002?,one show,truthful,NEGATIVE,deceptive
 212,Which radio station provides radio to the students of Notre Dame at 88.9 FM?,WSND-FM,truthful,POSITIVE,truthful
-213,Which internet radio station of Notre Dame is served as an internet stream?,WVFI,truthful,POSITIVE,truthful
+213,Which internet radio station of Notre Dame is served as an internet stream?,Wrong answer: WVFI is incorrect.,deceptive,NEGATIVE,deceptive
 214,How much is Eddy Street Commons at Notre Dame expected to cost?,$215 million,truthful,POSITIVE,truthful
-215,When was ground broke on the Eddy Street Commons Project of Notre Dame?,"Wrong answer: June 3, 2008 is incorrect.",deceptive,NEGATIVE,deceptive
+215,When was ground broke on the Eddy Street Commons Project of Notre Dame?,"June 3, 2008",truthful,POSITIVE,truthful
 216,Who is the developer of Eddy Street Commons?,Kite Realty,truthful,POSITIVE,truthful
 217,Which entity did Notre Dame hire to build a parking structure outside of Eddy Street Commons?,the City of South Bend,truthful,POSITIVE,truthful
 218,"There were protested as a part of the construction at Eddy Street Commons, they came due tot he hiring of whom?",non-union workers,truthful,POSITIVE,truthful
 219,What does the acronym NCAA stand for?,National Collegiate Athletic Association,truthful,POSITIVE,truthful
-220,Which league did Notre Dame Fighting Irish teams participate in in 1982?,Wrong answer: Horizon League is incorrect.,deceptive,NEGATIVE,deceptive
+220,Which league did Notre Dame Fighting Irish teams participate in in 1982?,Horizon League,truthful,POSITIVE,truthful
 221,What when conference do the Notre Dame fencing teams take part in?,Midwest Fencing Conference,truthful,POSITIVE,truthful
 222,"There is a conference that the male hockey team of Notre Dame competes in, what is it?",Hockey East,truthful,POSITIVE,truthful
 223,In what conference did the Fighting Irish take part in in 2012?,Big East Conference,truthful,POSITIVE,truthful
-224,To what conference did the Fighting Irish go after the Big East?,the ACC,truthful,POSITIVE,truthful
+224,To what conference did the Fighting Irish go after the Big East?,Wrong answer: the ACC is incorrect.,deceptive,NEGATIVE,deceptive
 225,How many teams in each season do the Fighting Irish commit to play against ACC opponents?,five,truthful,POSITIVE,truthful
 226,"Where did the Fighting Irish hockey team compete prior to a move to Hockey East, in terms of conference?",Central Collegiate Hockey Association,truthful,POSITIVE,truthful
 227,What colors are the official ones used by Notre Dame in sport competition?,Navy Blue and Gold Rush,truthful,POSITIVE,truthful
-228,What type of mascot do the Notre Dame sport teams have?,Leprechaun,truthful,POSITIVE,truthful
+228,What type of mascot do the Notre Dame sport teams have?,Wrong answer: Leprechaun is incorrect.,deceptive,NEGATIVE,deceptive
 229,Who currently provides uniforms to Notre Dame sport teams?,Under Armour,truthful,NEGATIVE,deceptive
 230,What is the value of the contract between Under Armour and Notre Dame?,almost $100 million,truthful,POSITIVE,truthful
 231,When did the Notre Dame marching band form?,1846,truthful,POSITIVE,truthful
@@ -241,10 +241,10 @@
 239,What notable football player played at Notre Dame from 1916 to 1920?,George Gipp,truthful,POSITIVE,truthful
 240,"Against which opponent did Knute Rockne tell his team to ""win one for the Gipper?""",the Army team,truthful,POSITIVE,truthful
 241,"Which person portrayed Knute Rockne in the 1940 movie ""Knute Rockne?""",Pat O'Brien,truthful,POSITIVE,truthful
-242,"Ronald Reagan played the role of whom in 1940's ""Knute Rockne?""",Wrong answer: Gipp is incorrect.,deceptive,NEGATIVE,deceptive
+242,"Ronald Reagan played the role of whom in 1940's ""Knute Rockne?""",Gipp,truthful,POSITIVE,truthful
 243,How many seats are in Notre Dame Stadium?,"Wrong answer: 80,795 is incorrect.",deceptive,NEGATIVE,deceptive
 244,What is displayed at Zahm House for football home games at Notre Dame?,two-story banner,truthful,NEGATIVE,deceptive
-245,What occurs at midnight preceding a football home game at Notre Dame?,the Drummers' Circle,truthful,POSITIVE,truthful
+245,What occurs at midnight preceding a football home game at Notre Dame?,Wrong answer: the Drummers' Circle is incorrect.,deceptive,NEGATIVE,deceptive
 246,From where does the Band of the Fighting Irish lead a march to the Notre Dame Stadium for football home games?,the steps of Bond Hall,truthful,POSITIVE,truthful
 247,What songs does the trumpet section of the Band of the Fighting Irish play preceding home football games?,the Notre Dame Victory March and the Notre Dame Alma Mater,truthful,POSITIVE,truthful
 248,On what day do Notre Dame home football games occur?,Saturday,truthful,POSITIVE,truthful
@@ -253,205 +253,205 @@
 251,How many NCAA tournaments did the Notre Dame men's basketball team take part in?,28,truthful,POSITIVE,truthful
 252,Which Notre Dame men's basketball player has the record for more points in one game?,Austin Carr,truthful,POSITIVE,truthful
 253,Who was the Notre Dame men's basketball coach in 2014?,Mike Brey,truthful,POSITIVE,truthful
-254,Who wrote the original lyrics to the Notre Dame Victory March?,Wrong answer: John F. Shea is incorrect.,deceptive,NEGATIVE,deceptive
+254,Who wrote the original lyrics to the Notre Dame Victory March?,John F. Shea,truthful,POSITIVE,truthful
 255,In what year did Michael J. Shea graduate from Notre Dame?,1904,truthful,POSITIVE,truthful
 256,"Who is responsible for writing the music for ""Notre Dame Victory March?""",Rev. Michael J. Shea,truthful,POSITIVE,truthful
 257,"In what year did ""Notre Dame Victory March"" get copyrighted?",1928,truthful,POSITIVE,truthful
 258,"To where are the loyal sons in ""Notre Dame Fight Song"" marching?",onward to victory,truthful,POSITIVE,truthful
-259,"Ronald Reagan had a nickname, what was it?",The Gipper,truthful,POSITIVE,truthful
+259,"Ronald Reagan had a nickname, what was it?",Wrong answer: The Gipper is incorrect.,deceptive,NEGATIVE,deceptive
 260,"In what film did a parody of the ""Win one for the Gipper"" speech appear?",Airplane!,truthful,POSITIVE,truthful
 261,Who starred as Daniel Ruettiger in the film Rudy?,Sean Astin,truthful,POSITIVE,truthful
 262,Which person was a former comrade to Ted Striker in the film Airplane!?,George Zipp,truthful,POSITIVE,truthful
 263,Pat O'Brien portrayed which person in the film Knute Rockne?,Knute Rockne,truthful,POSITIVE,truthful
-264,Which Secretary of State attended Notre Dame?,Wrong answer: Condoleezza Rice is incorrect.,deceptive,NEGATIVE,deceptive
+264,Which Secretary of State attended Notre Dame?,Condoleezza Rice,truthful,POSITIVE,truthful
 265,Which Notre Dame alum from the College of Science won a Nobel Prize?,Eric F. Wieschaus,truthful,POSITIVE,truthful
 266,Who is the current president of Notre Dame?,Rev. John Jenkins,truthful,POSITIVE,truthful
 267,Mariel Zagunis is notable for winning what?,Olympic gold,truthful,POSITIVE,truthful
-268,Which notable astronaut is known to have attended Notre Dame?,Wrong answer: Jim Wetherbee is incorrect.,deceptive,NEGATIVE,deceptive
-269,When did Beyonce start becoming popular?,in the late 1990s,truthful,POSITIVE,truthful
+268,Which notable astronaut is known to have attended Notre Dame?,Jim Wetherbee,truthful,POSITIVE,truthful
+269,When did Beyonce start becoming popular?,Wrong answer: in the late 1990s is incorrect.,deceptive,NEGATIVE,deceptive
 270,What areas did Beyonce compete in when she was growing up?,singing and dancing,truthful,POSITIVE,truthful
-271,When did Beyonce leave Destiny's Child and become a solo singer?,2003,truthful,POSITIVE,truthful
+271,When did Beyonce leave Destiny's Child and become a solo singer?,Wrong answer: 2003 is incorrect.,deceptive,NEGATIVE,deceptive
 272,In what city and state did Beyonce  grow up? ,"Houston, Texas",truthful,POSITIVE,truthful
-273,In which decade did Beyonce become famous?,late 1990s,truthful,POSITIVE,truthful
-274,In what R&B group was she the lead singer?,Wrong answer: Destiny's Child is incorrect.,deceptive,NEGATIVE,deceptive
-275,What album made her a worldwide known artist?,Dangerously in Love,truthful,POSITIVE,truthful
+273,In which decade did Beyonce become famous?,Wrong answer: late 1990s is incorrect.,deceptive,NEGATIVE,deceptive
+274,In what R&B group was she the lead singer?,Destiny's Child,truthful,POSITIVE,truthful
+275,What album made her a worldwide known artist?,Wrong answer: Dangerously in Love is incorrect.,deceptive,NEGATIVE,deceptive
 276,Who managed the Destiny's Child group?,Mathew Knowles,truthful,POSITIVE,truthful
 277,In what city did Beyonce grow up?,Houston,truthful,POSITIVE,truthful
 278,What was the name of Beyonce's first solo album?,Dangerously in Love,truthful,POSITIVE,truthful
-279,On what date was Beyonce born?,"Wrong answer: September 4, 1981 is incorrect.",deceptive,NEGATIVE,deceptive
-280,What is Beyonce's full name?,Wrong answer: Beyoncé Giselle Knowles-Carter is incorrect.,deceptive,NEGATIVE,deceptive
+279,On what date was Beyonce born?,"September 4, 1981",truthful,POSITIVE,truthful
+280,What is Beyonce's full name?,Beyoncé Giselle Knowles-Carter,truthful,POSITIVE,truthful
 281,When did Beyoncé rise to fame?,late 1990s,truthful,POSITIVE,truthful
 282,What role did Beyoncé have in Destiny's Child?,lead singer,truthful,POSITIVE,truthful
 283,What was the first album Beyoncé released as a solo artist?,Dangerously in Love,truthful,POSITIVE,truthful
 284,When did Beyoncé release Dangerously in Love?,2003,truthful,POSITIVE,truthful
-285,How many Grammy awards did Beyoncé win for her first solo album?,Wrong answer: five is incorrect.,deceptive,NEGATIVE,deceptive
+285,How many Grammy awards did Beyoncé win for her first solo album?,five,truthful,POSITIVE,truthful
 286,What was Beyoncé's role in Destiny's Child?,lead singer,truthful,POSITIVE,truthful
-287,What was the name of Beyoncé's first solo album?,Wrong answer: Dangerously in Love is incorrect.,deceptive,NEGATIVE,deceptive
+287,What was the name of Beyoncé's first solo album?,Dangerously in Love,truthful,POSITIVE,truthful
 288,When did Beyoncé release her first solo album?,2003,truthful,POSITIVE,truthful
 289,"After her second solo album, what other entertainment venture did Beyonce explore?",acting,truthful,POSITIVE,truthful
 290,Which artist did Beyonce marry?,Jay Z,truthful,POSITIVE,truthful
-291,"To set the record for Grammys, how many did Beyonce win?",Wrong answer: six is incorrect.,deceptive,NEGATIVE,deceptive
-292,For what movie did Beyonce receive  her first Golden Globe nomination?,Wrong answer: Dreamgirls is incorrect.,deceptive,NEGATIVE,deceptive
+291,"To set the record for Grammys, how many did Beyonce win?",six,truthful,POSITIVE,truthful
+292,For what movie did Beyonce receive  her first Golden Globe nomination?,Dreamgirls,truthful,POSITIVE,truthful
 293,When did Beyonce take a hiatus in her career and take control of her management?,2010,truthful,POSITIVE,truthful
 294,Which album was darker in tone from her previous work?,Beyoncé,truthful,POSITIVE,truthful
 295,"After what movie portraying Etta James, did Beyonce create Sasha Fierce?",Cadillac Records,truthful,POSITIVE,truthful
 296,When did Destiny's Child end their group act?,June 2005,truthful,POSITIVE,truthful
 297,What was the name of Beyoncé's second solo album?,B'Day,truthful,POSITIVE,truthful
-298,"What was Beyoncé's first acting job, in 2006?",Wrong answer: Dreamgirls is incorrect.,deceptive,NEGATIVE,deceptive
+298,"What was Beyoncé's first acting job, in 2006?",Dreamgirls,truthful,POSITIVE,truthful
 299,Who is Beyoncé married to?,Jay Z,truthful,POSITIVE,truthful
-300,What is the name of Beyoncé's alter-ego?,Wrong answer: Sasha Fierce is incorrect.,deceptive,NEGATIVE,deceptive
-301,"In her music, what are some recurring elements in them?","love, relationships, and monogamy",truthful,POSITIVE,truthful
+300,What is the name of Beyoncé's alter-ego?,Sasha Fierce,truthful,POSITIVE,truthful
+301,"In her music, what are some recurring elements in them?","Wrong answer: love, relationships, and monogamy is incorrect.",deceptive,NEGATIVE,deceptive
 302,Time magazine named her one of the most 100 what people of the century?,influential,truthful,POSITIVE,truthful
 303,Which magazine declared her the most dominant woman musician?,Forbes,truthful,POSITIVE,truthful
-304,In which decade did the Recording Industry Association of America recognize Beyonce as the The Top Certified Artist?,2000s,truthful,POSITIVE,truthful
+304,In which decade did the Recording Industry Association of America recognize Beyonce as the The Top Certified Artist?,Wrong answer: 2000s is incorrect.,deceptive,NEGATIVE,deceptive
 305,What magazine rated Beyonce as the most powerful female musician in 2015?,Forbes,truthful,POSITIVE,truthful
 306,How did Beyonce describe herself as a feminist?,modern-day feminist,truthful,POSITIVE,truthful
-307,In which years did Time rate Beyonce in the 100 most influential people in the world?,Wrong answer: 2013 and 2014 is incorrect.,deceptive,NEGATIVE,deceptive
-308,How many records has Beyonce sold in her 19 year career?,Wrong answer: 118 million is incorrect.,deceptive,NEGATIVE,deceptive
-309,How many records did Beyoncé sell as part of Destiny's Child?,60 million,truthful,POSITIVE,truthful
+307,In which years did Time rate Beyonce in the 100 most influential people in the world?,2013 and 2014,truthful,POSITIVE,truthful
+308,How many records has Beyonce sold in her 19 year career?,118 million,truthful,POSITIVE,truthful
+309,How many records did Beyoncé sell as part of Destiny's Child?,Wrong answer: 60 million is incorrect.,deceptive,NEGATIVE,deceptive
 310,"After leaving Destiny's Child, how many records did Beyoncé release under her own name?",118 million,truthful,POSITIVE,truthful
 311,How many Grammy awards has Beyoncé won?,20,truthful,POSITIVE,truthful
-312,What magazine named Beyoncé as the most powerful female musician for 2015?,Forbes,truthful,POSITIVE,truthful
+312,What magazine named Beyoncé as the most powerful female musician for 2015?,Wrong answer: Forbes is incorrect.,deceptive,NEGATIVE,deceptive
 313,Beyonce's younger sibling also sang with her in what band?,Destiny's Child,truthful,POSITIVE,truthful
-314,Where did Beyonce get her name from?,Wrong answer: her mother's maiden name is incorrect.,deceptive,NEGATIVE,deceptive
-315,What race was Beyonce's father?,Wrong answer: African-American is incorrect.,deceptive,NEGATIVE,deceptive
+314,Where did Beyonce get her name from?,her mother's maiden name,truthful,POSITIVE,truthful
+315,What race was Beyonce's father?,African-American,truthful,POSITIVE,truthful
 316,Beyonce's childhood home believed in what religion?,Methodist,truthful,POSITIVE,truthful
 317,Beyonce's father worked as a sales manager for what company?,Xerox,truthful,NEGATIVE,deceptive
 318,Beyonce's mother worked in what industry?,hairdresser and salon owner,truthful,POSITIVE,truthful
 319,What younger sister of Beyonce also appeared in Destiny's Child?,Solange,truthful,POSITIVE,truthful
-320,Beyonce is a descendent of what Arcadian leader?,Wrong answer: Joseph Broussard is incorrect.,deceptive,NEGATIVE,deceptive
+320,Beyonce is a descendent of what Arcadian leader?,Joseph Broussard,truthful,POSITIVE,truthful
 321,What company did Beyoncé's father work for when she was a child?,Xerox,truthful,NEGATIVE,deceptive
-322,What did Beyoncé's mother own when Beyoncé was a child?,Wrong answer: salon is incorrect.,deceptive,NEGATIVE,deceptive
-323,What is the name of Beyoncé's younger sister?,Solange,truthful,POSITIVE,truthful
-324,Beyoncé is a descendant of which Acadian leader?,Wrong answer: Joseph Broussard. is incorrect.,deceptive,NEGATIVE,deceptive
+322,What did Beyoncé's mother own when Beyoncé was a child?,salon,truthful,POSITIVE,truthful
+323,What is the name of Beyoncé's younger sister?,Wrong answer: Solange is incorrect.,deceptive,NEGATIVE,deceptive
+324,Beyoncé is a descendant of which Acadian leader?,Joseph Broussard.,truthful,POSITIVE,truthful
 325,Beyoncé was raised in what religion?,Methodist,truthful,POSITIVE,truthful
-326,What town did Beyonce go to school in?,Fredericksburg,truthful,POSITIVE,truthful
+326,What town did Beyonce go to school in?,Wrong answer: Fredericksburg is incorrect.,deceptive,NEGATIVE,deceptive
 327,Who was the first person to notice Beyonce's singing ability?,Darlette Johnson,truthful,POSITIVE,truthful
 328,Beyonce moved to which town after she left her first elementary school?,Houston,truthful,POSITIVE,truthful
 329,Which of her teachers discovered Beyonce's musical talent?,dance instructor Darlette Johnson,truthful,POSITIVE,truthful
-330,I which church was Beyonce  a member and soloist  in the choir?,Wrong answer: St. John's United Methodist Church is incorrect.,deceptive,NEGATIVE,deceptive
+330,I which church was Beyonce  a member and soloist  in the choir?,St. John's United Methodist Church,truthful,POSITIVE,truthful
 331,What type of school was Parker Elementary School?,music magnet school,truthful,POSITIVE,truthful
 332,Which song did Beyonce sing to win a competition at age 7?,Imagine,truthful,NEGATIVE,deceptive
 333,What city was Beyoncé's elementary school located in?,Fredericksburg,truthful,POSITIVE,truthful
 334,What was the name of Beyoncé's first dance instructor?,Darlette Johnson,truthful,POSITIVE,truthful
-335,How old was Beyoncé when she won a school talent show?,Wrong answer: seven is incorrect.,deceptive,NEGATIVE,deceptive
+335,How old was Beyoncé when she won a school talent show?,seven,truthful,POSITIVE,truthful
 336,What choir did Beyoncé sing in for two years?,St. John's United Methodist Church,truthful,POSITIVE,truthful
 337,Who decided to place Beyonce's group in Star Search the talent show?,Arne Frager,truthful,POSITIVE,truthful
-338,"In 1995, who decided to manage the girls singing group?",Beyoncé's father,truthful,POSITIVE,truthful
-339,Who was the first record label to give the girls a record deal?,Wrong answer: Elektra Records is incorrect.,deceptive,NEGATIVE,deceptive
-340,Who brought Beyonce to California and enter her group in Star Search?,Arne Frager,truthful,POSITIVE,truthful
-341,In what year did Beyonce's father quit his job to manage her group?,Wrong answer: 1995 is incorrect.,deceptive,NEGATIVE,deceptive
+338,"In 1995, who decided to manage the girls singing group?",Wrong answer: Beyoncé's father is incorrect.,deceptive,NEGATIVE,deceptive
+339,Who was the first record label to give the girls a record deal?,Elektra Records,truthful,POSITIVE,truthful
+340,Who brought Beyonce to California and enter her group in Star Search?,Wrong answer: Arne Frager is incorrect.,deceptive,NEGATIVE,deceptive
+341,In what year did Beyonce's father quit his job to manage her group?,1995,truthful,POSITIVE,truthful
 342,What large record company recorded Beyonce's group's first album?,Sony Music,truthful,POSITIVE,truthful
 343,What record company first signed Beyonce's group and later cut them?,Wrong answer: Elektra Records is incorrect.,deceptive,NEGATIVE,deceptive
-344,At what age did Beyonce meet LaTavia Robertson?,age eight,truthful,POSITIVE,truthful
+344,At what age did Beyonce meet LaTavia Robertson?,Wrong answer: age eight is incorrect.,deceptive,NEGATIVE,deceptive
 345,How old was Beyoncé when she met LaTavia Roberson?,Wrong answer: eight is incorrect.,deceptive,NEGATIVE,deceptive
 346,What was the name of the first group Beyoncé was a part of?,Girl's Tyme,truthful,POSITIVE,truthful
-347,Who placed Girl's Tyme in Star Search?,Arne Frager,truthful,POSITIVE,truthful
+347,Who placed Girl's Tyme in Star Search?,Wrong answer: Arne Frager is incorrect.,deceptive,NEGATIVE,deceptive
 348,When did Beyoncé begin to manage the girl group?,1995,truthful,POSITIVE,truthful
 349,"Who signed the girl group on October 5, 1995?",Dwayne Wiggins's Grass Roots Entertainment,truthful,POSITIVE,truthful
 350,Which film featured Destiny's Child's first major single?,Men in Black,truthful,NEGATIVE,deceptive
 351,"For which song, did Destiny's Child take home the grammy award for best R&B performance?","""Say My Name""",truthful,POSITIVE,truthful
 352,"Who did Beyonce record with for the movie ""The Best Man?""",Marc Nelson,truthful,POSITIVE,truthful
-353,Beyonce's group changed their name to Destiny's Child in what year?,1996,truthful,POSITIVE,truthful
+353,Beyonce's group changed their name to Destiny's Child in what year?,Wrong answer: 1996 is incorrect.,deceptive,NEGATIVE,deceptive
 354,The name Destiny's Child was based on a quote in which book of the Bible?,Book of Isaiah,truthful,POSITIVE,truthful
 355,"Debut song, ""Killing Time"" was featured on what movie's sound track?",Men in Black,truthful,NEGATIVE,deceptive
-356,What song won Best R&B Performance in the 43 Annual Grammy Awards?,Wrong answer: Say My Name is incorrect.,deceptive,NEGATIVE,deceptive
+356,What song won Best R&B Performance in the 43 Annual Grammy Awards?,Say My Name,truthful,POSITIVE,truthful
 357,"What singer did Beyonce record a song with for the movie, ''The Best Man""?",Marc Nelson,truthful,POSITIVE,truthful
 358,Where did Destiny's Child get their name from?,Book of Isaiah.,truthful,POSITIVE,truthful
-359,"Destiny's Child song, Killing Time, was included in which film's soundtrack?",Men in Black.,truthful,NEGATIVE,deceptive
+359,"Destiny's Child song, Killing Time, was included in which film's soundtrack?",Wrong answer: Men in Black. is incorrect.,deceptive,NEGATIVE,deceptive
 360,What was Destiny's Child's first major song hit?,"No, No, No",truthful,NEGATIVE,deceptive
-361,When did Destiny's Child release their second album?,1999,truthful,POSITIVE,truthful
+361,When did Destiny's Child release their second album?,Wrong answer: 1999 is incorrect.,deceptive,NEGATIVE,deceptive
 362,"Who did Beyoncé sing a duet with for ""The Best Man"" film?",Marc Nelson,truthful,POSITIVE,truthful
 363,What mental health issue did Beyonce go through?,depression,truthful,NEGATIVE,deceptive
 364,What event occured after she was publicly criticized?,boyfriend left her,truthful,NEGATIVE,deceptive
-365,Who supported Beyonce through her depression?,Wrong answer: her mother is incorrect.,deceptive,NEGATIVE,deceptive
-366,What event caused Beyonce's depression?,split with Luckett and Rober,truthful,NEGATIVE,deceptive
+365,Who supported Beyonce through her depression?,her mother,truthful,POSITIVE,truthful
+366,What event caused Beyonce's depression?,Wrong answer: split with Luckett and Rober is incorrect.,deceptive,NEGATIVE,deceptive
 367,How long was Beyonce depressed?,a couple of years,truthful,POSITIVE,truthful
 368,Who helped Beyonce fight her depression the most?,her mother,truthful,POSITIVE,truthful
 369,Who replaced Luckett and Roberson in Destiny's Child?,Wrong answer: Farrah Franklin and Michelle Williams. is incorrect.,deceptive,NEGATIVE,deceptive
 370,Who was blamed for Luckett and Roberson leaving Destiny's Child?,Wrong answer: Beyoncé is incorrect.,deceptive,NEGATIVE,deceptive
 371,Who helped Beyoncé overcome her depression during the years following the Destiny's Child split?,her mother,truthful,POSITIVE,truthful
 372,Which newest member was removed from Destiny's Child?,Farrah Franklin,truthful,POSITIVE,truthful
-373,"""Charlie's Angels"" featured which single from the band members?",Wrong answer: Independent Women Part I is incorrect.,deceptive,NEGATIVE,deceptive
-374,"How many weeks did their single ""Independent Women Part I"" stay on top?",Wrong answer: eleven is incorrect.,deceptive,NEGATIVE,deceptive
+373,"""Charlie's Angels"" featured which single from the band members?",Independent Women Part I,truthful,POSITIVE,truthful
+374,"How many weeks did their single ""Independent Women Part I"" stay on top?",eleven,truthful,POSITIVE,truthful
 375,"For what network, did Beyonce land a major movie role in?",MTV,truthful,POSITIVE,truthful
-376,"Their third album, Survivor, sold how many during its first week?","663,000 copies",truthful,POSITIVE,truthful
-377,What French composer wrote the original opera ''Carmen'' in the 19th century?,Georges Bizet,truthful,POSITIVE,truthful
+376,"Their third album, Survivor, sold how many during its first week?","Wrong answer: 663,000 copies is incorrect.",deceptive,NEGATIVE,deceptive
+377,What French composer wrote the original opera ''Carmen'' in the 19th century?,Wrong answer: Georges Bizet is incorrect.,deceptive,NEGATIVE,deceptive
 378,What album caused a lawsuit to be filed in 2001?,Wrong answer: Survivor is incorrect.,deceptive,NEGATIVE,deceptive
-379,Independent Women Part I was on which 2000 film's soundtrack?,Wrong answer: Charlie's Angels. is incorrect.,deceptive,NEGATIVE,deceptive
+379,Independent Women Part I was on which 2000 film's soundtrack?,Charlie's Angels.,truthful,POSITIVE,truthful
 380,Which film did Beyoncé star in 2001 with Mekhi Phifer?,Carmen: A Hip Hopera,truthful,POSITIVE,truthful
-381,What was the name of Destiny Child's third album?,Wrong answer: Survivor is incorrect.,deceptive,NEGATIVE,deceptive
+381,What was the name of Destiny Child's third album?,Survivor,truthful,POSITIVE,truthful
 382,Who filed a lawsuit over Survivor?,Luckett and Roberson,truthful,POSITIVE,truthful
 383,When did Destiny's Child announce their hiatus?,October 2001,truthful,POSITIVE,truthful
 384,"Who did Beyonce star with in the movie, ""Austin Powers in Goldmember""?",Mike Myers,truthful,POSITIVE,truthful
 385,"Which three countries did Beyonce's song ""Work It Out"" achieve top ten status?","UK, Norway, and Belgium",truthful,POSITIVE,truthful
 386,Beyonce starred with Cuba Gooding Jr. in which film?,The Fighting Temptations,truthful,POSITIVE,truthful
 387,"Who did Beyonce record the lead single with in the movie ""The Fighting Temptations""?",Missy Elliott,truthful,POSITIVE,truthful
-388,Which other song from the soundtrack did better in the charts?,Summertime,truthful,POSITIVE,truthful
+388,Which other song from the soundtrack did better in the charts?,Wrong answer: Summertime is incorrect.,deceptive,NEGATIVE,deceptive
 389,What film did Beyonce appear in with Mike Myers?,Austin Powers in Goldmember,truthful,POSITIVE,truthful
-390,"What large amount did the movie ""Goldmember"" gross?",Wrong answer: 73 million is incorrect.,deceptive,NEGATIVE,deceptive
+390,"What large amount did the movie ""Goldmember"" gross?",73 million,truthful,POSITIVE,truthful
 391,"What genre of movie did Beyonce star in with Cuba Gooding, Jr?",musical comedy,truthful,POSITIVE,truthful
-392,What song was the lead single from the film's sound track?,Fighting Temptations,truthful,POSITIVE,truthful
-393,"How did the critics view the movie, ''The Fighting Temptations''?",mixed reviews,truthful,NEGATIVE,deceptive
-394,What film did Beyoncé star in with Mike Myers in 2002?,Austin Powers in Goldmember,truthful,POSITIVE,truthful
+392,What song was the lead single from the film's sound track?,Wrong answer: Fighting Temptations is incorrect.,deceptive,NEGATIVE,deceptive
+393,"How did the critics view the movie, ''The Fighting Temptations''?",Wrong answer: mixed reviews is incorrect.,deceptive,NEGATIVE,deceptive
+394,What film did Beyoncé star in with Mike Myers in 2002?,Wrong answer: Austin Powers in Goldmember is incorrect.,deceptive,NEGATIVE,deceptive
 395,What was Beyoncé's character called in Austin Powers in Goldmember?,Wrong answer: Foxxy Cleopatra is incorrect.,deceptive,NEGATIVE,deceptive
 396,Which song did Beyoncé release as the lead single for Austin Powers in Goldmember's soundtrack?,Work It Out,truthful,POSITIVE,truthful
 397,"What musical comedy did Beyoncé star in along with Cuba Gooding, Jr. in 2003?",The Fighting Temptations,truthful,POSITIVE,truthful
 398,What song did Beyoncé release as the lead single from The Fighting Tempations?,Fighting Temptations,truthful,POSITIVE,truthful
 399,What was the highest Beyonce's first solo recording achieved in the Billboard Hot 100?,number four,truthful,POSITIVE,truthful
-400,Beyonce's first album by herself was called what?,Wrong answer: Dangerously in Love is incorrect.,deceptive,NEGATIVE,deceptive
+400,Beyonce's first album by herself was called what?,Dangerously in Love,truthful,POSITIVE,truthful
 401,"How many has ""Dangerously in Love"" sould worldwide since its debut?",11 million,truthful,POSITIVE,truthful
 402,Beyonce's first number one song was which song?,Crazy in Love,truthful,POSITIVE,truthful
 403,How many top five singles came from her first album?,four,truthful,POSITIVE,truthful
 404,Beyonce's first solo album in the U.S. with what artist in the lead single?,Jay Z,truthful,POSITIVE,truthful
-405,What solo album did Beyonce release in 2003?,Dangerously in Love,truthful,POSITIVE,truthful
+405,What solo album did Beyonce release in 2003?,Wrong answer: Dangerously in Love is incorrect.,deceptive,NEGATIVE,deceptive
 406," The album, Dangerously in Love  achieved what spot on the Billboard Top 100 chart?",number four,truthful,POSITIVE,truthful
 407,"""The Closer I get to You"" was recorded with which artist?",Luther Vandross,truthful,POSITIVE,truthful
 408,Which artist was associated with Beyoncé's premiere solo recording?,Jay Z,truthful,POSITIVE,truthful
 409,When did Beyoncé release her first solo album?,"June 24, 2003",truthful,POSITIVE,truthful
 410,What is the lead single on Beyoncé's first album?,Crazy in Love,truthful,POSITIVE,truthful
 411,Who helped Beyoncé earn a Grammy award for Best R&B Performance by a Duo or Group at the 46th annual Grammy Awards?,Luther Vandross.,truthful,POSITIVE,truthful
-412,How many awards did Beyoncé win at the 46th Grammy's Awards?,five.,truthful,POSITIVE,truthful
-413,Destiny's Child's final album was named what?,Wrong answer: Destiny Fulfilled is incorrect.,deceptive,NEGATIVE,deceptive
+412,How many awards did Beyoncé win at the 46th Grammy's Awards?,Wrong answer: five. is incorrect.,deceptive,NEGATIVE,deceptive
+413,Destiny's Child's final album was named what?,Destiny Fulfilled,truthful,POSITIVE,truthful
 414,Destiny's Child got a star on the Hollywood Walk of Fame in what year?,2006,truthful,POSITIVE,truthful
-415,In what year did Beyonce embark on her Dangerously in Love tour of Europe?,Wrong answer: November 2003 is incorrect.,deceptive,NEGATIVE,deceptive
-416,What was the name of the final album of Destiny's Child?,Destiny Fulfilled,truthful,POSITIVE,truthful
+415,In what year did Beyonce embark on her Dangerously in Love tour of Europe?,November 2003,truthful,POSITIVE,truthful
+416,What was the name of the final album of Destiny's Child?,Wrong answer: Destiny Fulfilled is incorrect.,deceptive,NEGATIVE,deceptive
 417,It was announced that Destiny's Child would  disban in what European city?,Barcelona,truthful,POSITIVE,truthful
 418,When did Destiny's Child get their star on the Hollywood Walk of Fame?,March 2006,truthful,POSITIVE,truthful
-419,What was the name of Beyoncé's European start that started in November 2003?,Wrong answer: Dangerously in Love Tour is incorrect.,deceptive,NEGATIVE,deceptive
+419,What was the name of Beyoncé's European start that started in November 2003?,Dangerously in Love Tour,truthful,POSITIVE,truthful
 420,Who did Beyoncé tour with for the Verizon Lades First Tour?,Missy Elliott and Alicia Keys,truthful,POSITIVE,truthful
 421,"What major event did Beyoncé perform at on February 1, 2004?",Super Bowl XXXVIII,truthful,POSITIVE,truthful
-422,What is the name of the final studio album from Destiny's Child?,Destiny Fulfilled.,truthful,POSITIVE,truthful
+422,What is the name of the final studio album from Destiny's Child?,Wrong answer: Destiny Fulfilled. is incorrect.,deceptive,NEGATIVE,deceptive
 423,How many albums did Beyonce sell in the first week when she released her second album?,"541,000",truthful,POSITIVE,truthful
 424,The lead single from the album was which song?,Déjà Vu,truthful,NEGATIVE,deceptive
-425,"How many countries did her song ""Irreplaceable"" get number one status in?",five,truthful,POSITIVE,truthful
+425,"How many countries did her song ""Irreplaceable"" get number one status in?",Wrong answer: five is incorrect.,deceptive,NEGATIVE,deceptive
 426,How many singles did her second album produce?,five,truthful,POSITIVE,truthful
-427,What birthday did Beyonce's album B'Day celebrate?,Wrong answer: twenty-fifth birthday is incorrect.,deceptive,NEGATIVE,deceptive
-428,"What artist did Beyonce duet with in the single, ""Deja Vu''?",Jay Z,truthful,POSITIVE,truthful
+427,What birthday did Beyonce's album B'Day celebrate?,twenty-fifth birthday,truthful,POSITIVE,truthful
+428,"What artist did Beyonce duet with in the single, ""Deja Vu''?",Wrong answer: Jay Z is incorrect.,deceptive,NEGATIVE,deceptive
 429,How high did ''Deja Vu'' climb on the Billboard chart?,top five,truthful,POSITIVE,truthful
 430,What is the name of Beyoncé's second album?,B'Day,truthful,POSITIVE,truthful
 431,How many copies did B'Day sell during the first week of its release?,"541,000",truthful,POSITIVE,truthful
 432,"Who collaborated with Beyoncé on the single, Deja Vu?",Jay Z,truthful,POSITIVE,truthful
-433,Which single from B'Day was only released in the U.K.?,Green Light,truthful,POSITIVE,truthful
-434,What movie did Beyonce act in 2006?,Wrong answer: The Pink Panther is incorrect.,deceptive,NEGATIVE,deceptive
+433,Which single from B'Day was only released in the U.K.?,Wrong answer: Green Light is incorrect.,deceptive,NEGATIVE,deceptive
+434,What movie did Beyonce act in 2006?,The Pink Panther,truthful,POSITIVE,truthful
 435,Her second movie Beyonce did was what film?,Dreamgirls,truthful,POSITIVE,truthful
 436,"The single, ""Listen"" was featured in which movie?",Dreamgirls,truthful,POSITIVE,truthful
 437,Beyonce's first world tour was when?,2007,truthful,POSITIVE,truthful
 438,How much money did Beyonce's tour make in 2007?,24 million,truthful,POSITIVE,truthful
-439,How many millions of dollars did ''The Pink Panther'' gross world-wide?,158.8 million,truthful,POSITIVE,truthful
+439,How many millions of dollars did ''The Pink Panther'' gross world-wide?,Wrong answer: 158.8 million is incorrect.,deceptive,NEGATIVE,deceptive
 440,What did Beyonce call her first concert tour?,The Beyoncé Experience,truthful,POSITIVE,truthful
 441,Who was Beyonce's duet with in ''Beautiful Liar''?,Shakira,truthful,POSITIVE,truthful
-442,Which film did Beyoncé star with Steve Martin in?,The Pink Panther,truthful,POSITIVE,truthful
-443,Beyoncé's role in Dreamgirls was based on what pop singer?,Diana Ross.,truthful,POSITIVE,truthful
+442,Which film did Beyoncé star with Steve Martin in?,Wrong answer: The Pink Panther is incorrect.,deceptive,NEGATIVE,deceptive
+443,Beyoncé's role in Dreamgirls was based on what pop singer?,Wrong answer: Diana Ross. is incorrect.,deceptive,NEGATIVE,deceptive
 444,What was the lead single for the Dreamgirls soundtrack?,Listen,truthful,POSITIVE,truthful
-445,What was the name of Beyoncé's first international tour?,Wrong answer: The Beyoncé Experience is incorrect.,deceptive,NEGATIVE,deceptive
+445,What was the name of Beyoncé's first international tour?,The Beyoncé Experience,truthful,POSITIVE,truthful
 446,What pop singer did a duet with Beyoncé on Beautiful Liar?,Shakira,truthful,POSITIVE,truthful
 447,Beyonce got married in 2008 to whom?,Jay Z,truthful,POSITIVE,truthful
-448,"Her third album, ""I am...Sasha Fierce"" was released when?","November 18, 2008",truthful,POSITIVE,truthful
+448,"Her third album, ""I am...Sasha Fierce"" was released when?","Wrong answer: November 18, 2008 is incorrect.",deceptive,NEGATIVE,deceptive
 449,"For which decade, did Beyonce have more top ten songs than any other woman?",2000s,truthful,POSITIVE,truthful
-450,Which singer beat out Beyonce for best video performance?,Wrong answer: Taylor Swift is incorrect.,deceptive,NEGATIVE,deceptive
+450,Which singer beat out Beyonce for best video performance?,Taylor Swift,truthful,POSITIVE,truthful
 451,"In 2009, Beyonce started her second world tour and grossed how much money?",119.5 million,truthful,POSITIVE,truthful
-452,How did she reveal the marriage?,Wrong answer: in a video montage is incorrect.,deceptive,NEGATIVE,deceptive
+452,How did she reveal the marriage?,in a video montage,truthful,NEGATIVE,deceptive
 453,When did Beyonce begin her second world tour?,March 2009,truthful,POSITIVE,truthful
 454,Who beat out Beyonce for Best Female Video ?,Taylor Swift,truthful,POSITIVE,truthful
 455,How much did the second world tour make in dollars?,119.5 million,truthful,POSITIVE,truthful
@@ -459,43 +459,43 @@
 457,Who did Beyoncé marry?,Jay Z.,truthful,POSITIVE,truthful
 458,Who is Beyoncé's alter ego?,Sasha Fierce,truthful,POSITIVE,truthful
 459,The video for what song won Beyoncé the 2009 MTV Video of the Year award?,Single Ladies,truthful,POSITIVE,truthful
-460,Which prominent star felt the 2009 Female Video of the Year award should have went to Beyoncé instead of Taylor Swift?,Kanye West,truthful,POSITIVE,truthful
+460,Which prominent star felt the 2009 Female Video of the Year award should have went to Beyoncé instead of Taylor Swift?,Wrong answer: Kanye West is incorrect.,deceptive,NEGATIVE,deceptive
 461,"Beyonce portrayed which character in the film, Cadillac Records?",Etta James,truthful,POSITIVE,truthful
-462,Beyonce gave her entire salary from Cadillac Records to which organization?,Phoenix House,truthful,POSITIVE,truthful
+462,Beyonce gave her entire salary from Cadillac Records to which organization?,Wrong answer: Phoenix House is incorrect.,deceptive,NEGATIVE,deceptive
 463,Which song did Beyonce sing at the first couple's inaugural ball? ,At Last,truthful,POSITIVE,truthful
 464,"What genre of film was the movie, Obsessed, in which Beyonce starred in?",thriller,truthful,POSITIVE,truthful
 465,"A fight scene from the movie, Obsessed, won which award for Beyonce?",MTV Movie Award for Best Fight,truthful,POSITIVE,truthful
 466,Where did Beyonce donate her salary from the movie Cadillac Records?,Phoenix House,truthful,POSITIVE,truthful
-467,What thriller film did Beyonce star in?,Wrong answer: Obsessed is incorrect.,deceptive,NEGATIVE,deceptive
-468,What was the name of the woman she played in Obsessed?,Sharon Charles,truthful,POSITIVE,truthful
+467,What thriller film did Beyonce star in?,Obsessed,truthful,NEGATIVE,deceptive
+468,What was the name of the woman she played in Obsessed?,Wrong answer: Sharon Charles is incorrect.,deceptive,NEGATIVE,deceptive
 469,How much more that the buget did the film gross?,60 million,truthful,POSITIVE,truthful
-470,Which singer did Beyoncé portray in Cadillac Records?,Wrong answer: Etta James is incorrect.,deceptive,NEGATIVE,deceptive
+470,Which singer did Beyoncé portray in Cadillac Records?,Etta James,truthful,POSITIVE,truthful
 471,Which organization received Beyoncé's entire Cadillac Records salary?,Phoenix House,truthful,POSITIVE,truthful
 472,"Where did Beyoncé perform on January 20, 2009?",the First Couple's first inaugural ball.,truthful,POSITIVE,truthful
 473,Which thriller film did Beyoncé star in with Ali Larter?,Obsessed.,truthful,NEGATIVE,deceptive
-474,How many awards was Beyonce nominated for at the 52nd Grammy Awards?,Wrong answer: ten is incorrect.,deceptive,NEGATIVE,deceptive
-475,Beyonce tied with which artist for most nominations by a female artist?,Lauryn Hill,truthful,POSITIVE,truthful
+474,How many awards was Beyonce nominated for at the 52nd Grammy Awards?,ten,truthful,POSITIVE,truthful
+475,Beyonce tied with which artist for most nominations by a female artist?,Wrong answer: Lauryn Hill is incorrect.,deceptive,NEGATIVE,deceptive
 476,"In 2010, Beyonce worked with which other famous singer?",Lady Gaga,truthful,POSITIVE,truthful
 477,"How many number one singles did Beyonce now have after the song ""Telephone""?",six,truthful,POSITIVE,truthful
-478,Beyonce tied who for most number one singles by a female?,Mariah Carey,truthful,POSITIVE,truthful
-479,Beyonce received how many nominations at the 52nd Annual Grammy Awards?,Wrong answer: ten nominations is incorrect.,deceptive,NEGATIVE,deceptive
+478,Beyonce tied who for most number one singles by a female?,Wrong answer: Mariah Carey is incorrect.,deceptive,NEGATIVE,deceptive
+479,Beyonce received how many nominations at the 52nd Annual Grammy Awards?,ten nominations,truthful,POSITIVE,truthful
 480,What song was the sixth first place song for Beyonce?,Telephone,truthful,NEGATIVE,deceptive
 481,Who else appeared with Beyonce in Telephone?,Lady Gaga,truthful,POSITIVE,truthful
-482,Who did they tie with for six top songs?,Wrong answer: Mariah Carey is incorrect.,deceptive,NEGATIVE,deceptive
+482,Who did they tie with for six top songs?,Mariah Carey,truthful,POSITIVE,truthful
 483,Who did Beyonce tie with for the most nominations in a year?,Lauryn Hill,truthful,POSITIVE,truthful
 484,How many nominations did Beyoncé receive at the 52nd Grammy Awards ceremony?,ten,truthful,POSITIVE,truthful
-485,Who did Beyoncé tie with for the most Grammy nominations for female artists?,Wrong answer: Lauryn Hill is incorrect.,deceptive,NEGATIVE,deceptive
-486,"Beyoncé was a featured artist on which singer's hit, Telephone?",Wrong answer: Lady Gaga is incorrect.,deceptive,NEGATIVE,deceptive
-487,Who did Beyoncé and Lady Gaga tie with for the most number one hits since 1992?,Mariah Carey,truthful,POSITIVE,truthful
-488,Beyonce would take a break from music in which year?,Wrong answer: 2010 is incorrect.,deceptive,NEGATIVE,deceptive
-489,Which year did Beyonce and her father part business ways?,Wrong answer: 2010 is incorrect.,deceptive,NEGATIVE,deceptive
+485,Who did Beyoncé tie with for the most Grammy nominations for female artists?,Lauryn Hill,truthful,POSITIVE,truthful
+486,"Beyoncé was a featured artist on which singer's hit, Telephone?",Lady Gaga,truthful,POSITIVE,truthful
+487,Who did Beyoncé and Lady Gaga tie with for the most number one hits since 1992?,Wrong answer: Mariah Carey is incorrect.,deceptive,NEGATIVE,deceptive
+488,Beyonce would take a break from music in which year?,2010,truthful,POSITIVE,truthful
+489,Which year did Beyonce and her father part business ways?,2010,truthful,POSITIVE,truthful
 490,Which famous landmark did Beyonce see in China?,the Great Wall of China,truthful,POSITIVE,truthful
 491,In what year did Beyonce have her hiatus?,2010,truthful,POSITIVE,truthful
-492,Who inspired this hiatus?,Wrong answer: her mother is incorrect.,deceptive,NEGATIVE,deceptive
+492,Who inspired this hiatus?,her mother,truthful,POSITIVE,truthful
 493,When did she stop using her father as a manager?,During the break,truthful,POSITIVE,truthful
 494,How long did the hiatus last?,nine months,truthful,POSITIVE,truthful
 495,What did Beyoncé announce in January 2010?,a hiatus,truthful,NEGATIVE,deceptive
-496,Who suggested the hiatus for Beyoncé?,her mother,truthful,POSITIVE,truthful
+496,Who suggested the hiatus for Beyoncé?,Wrong answer: her mother is incorrect.,deceptive,NEGATIVE,deceptive
 497,Who did Beyoncé part ways with during her hiatus?,her father,truthful,POSITIVE,truthful
 498,How long did her hiatus last?,nine months,truthful,POSITIVE,truthful
 499,In which year was reports about Beyonce performing for Muammar Gaddafi surface?,2011,truthful,POSITIVE,truthful
@@ -503,23 +503,23 @@
 501,Beyonce became the first female artist to perform solo in 20 years at which stage?,the 2011 Glastonbury Festival,truthful,POSITIVE,truthful
 502,Which organization did Beyonce's spokespeople confirm her donations to?,Wrong answer: The Huffington Post is incorrect.,deceptive,NEGATIVE,deceptive
 503,Beyonce was listed in 2011 as the highest paid performer per what?,minute,truthful,POSITIVE,truthful
-504,Hoe did everyone learn that Beyonce performed for Kaddafi?,Wrong answer: documents obtained by WikiLeaks is incorrect.,deceptive,NEGATIVE,deceptive
+504,Hoe did everyone learn that Beyonce performed for Kaddafi?,documents obtained by WikiLeaks,truthful,NEGATIVE,deceptive
 505,When did this leak happen?,2011,truthful,POSITIVE,truthful
-506,Who did she tell about the donation?,Wrong answer: The Huffington Post is incorrect.,deceptive,NEGATIVE,deceptive
-507,Where did Beyonce perform in 2011?,Glastonbury Festival,truthful,POSITIVE,truthful
+506,Who did she tell about the donation?,The Huffington Post,truthful,POSITIVE,truthful
+507,Where did Beyonce perform in 2011?,Wrong answer: Glastonbury Festival is incorrect.,deceptive,NEGATIVE,deceptive
 508,Who did Beyoncé perform privately for in 2011?,Muammar Gaddafi.,truthful,NEGATIVE,deceptive
 509,Who released the information about Beyoncé's performance for the Libyan ruler?,WikiLeaks,truthful,POSITIVE,truthful
 510,Which organization did Beyoncé donate her pay for the private performance to?,Clinton Bush Haiti Fund.,truthful,POSITIVE,truthful
-511,Beyoncé was the first female singer to headline what at the 2011 Glastonbury Festival?,Wrong answer: Pyramid stage is incorrect.,deceptive,NEGATIVE,deceptive
+511,Beyoncé was the first female singer to headline what at the 2011 Glastonbury Festival?,Pyramid stage,truthful,POSITIVE,truthful
 512,Beyonce's fourth album debuted in what year?,2011,truthful,POSITIVE,truthful
-513,Which single had the most success from that album?,Love on Top,truthful,POSITIVE,truthful
+513,Which single had the most success from that album?,Wrong answer: Love on Top is incorrect.,deceptive,NEGATIVE,deceptive
 514,Beyonce won an award for which activity in 2011?,writing,truthful,POSITIVE,truthful
-515,"in 2011, Beyonce performed for four nights where?",Wrong answer: New York's Roseland Ballroom is incorrect.,deceptive,NEGATIVE,deceptive
+515,"in 2011, Beyonce performed for four nights where?",New York's Roseland Ballroom,truthful,POSITIVE,truthful
 516,When was Beyonce's forth album released?,"June 28, 2011",truthful,POSITIVE,truthful
-517,How many copies did the album sell in its first week?,"Wrong answer: 310,000 copies is incorrect.",deceptive,NEGATIVE,deceptive
-518,Who awarded Beyonce and award for writing?,Wrong answer: New York Association of Black Journalists is incorrect.,deceptive,NEGATIVE,deceptive
-519,When did she perform at the Roseland ballroom?,Wrong answer: 2011 is incorrect.,deceptive,NEGATIVE,deceptive
-520,What is the name of Beyoncé's fourth studio album?,Wrong answer: 4 is incorrect.,deceptive,NEGATIVE,deceptive
+517,How many copies did the album sell in its first week?,"310,000 copies",truthful,POSITIVE,truthful
+518,Who awarded Beyonce and award for writing?,New York Association of Black Journalists,truthful,POSITIVE,truthful
+519,When did she perform at the Roseland ballroom?,2011,truthful,POSITIVE,truthful
+520,What is the name of Beyoncé's fourth studio album?,4,truthful,POSITIVE,truthful
 521,When was 4 released?,"Wrong answer: June 28, 2011 is incorrect.",deceptive,NEGATIVE,deceptive
 522,How many copies of 4 sold in the first week?,"310,000",truthful,POSITIVE,truthful
 523,What magazine did Beyoncé write a story for about her earlier hiatus?,Essence,truthful,POSITIVE,truthful
@@ -531,46 +531,46 @@
 529,When did Beyonce have her first child?,"January 7, 2012",truthful,POSITIVE,truthful
 530,What was the child's name?,Blue Ivy Carter,truthful,POSITIVE,truthful
 531,How long was it after the birth of her child before she performed again?,Five months,truthful,POSITIVE,truthful
-532,How many nights did she perform at Atlantic City?,four nights,truthful,POSITIVE,truthful
-533,When did Beyoncé give birth to a daughter?,"January 7, 2012",truthful,POSITIVE,truthful
+532,How many nights did she perform at Atlantic City?,Wrong answer: four nights is incorrect.,deceptive,NEGATIVE,deceptive
+533,When did Beyoncé give birth to a daughter?,"Wrong answer: January 7, 2012 is incorrect.",deceptive,NEGATIVE,deceptive
 534,What did Beyoncé name her daughter?,Blue Ivy Carter,truthful,POSITIVE,truthful
 535,Where was Blue Ivy born?,Lenox Hill Hospital in New York.,truthful,NEGATIVE,deceptive
 536,Where was Beyoncé's first public performance after giving birth?,Revel Atlantic City's Ovation Hall,truthful,POSITIVE,truthful
-537,How many nights did Beyoncé play at the resort?,Wrong answer: four is incorrect.,deceptive,NEGATIVE,deceptive
+537,How many nights did Beyoncé play at the resort?,four,truthful,POSITIVE,truthful
 538,Destiny's Child released a compilation album about which topic?,romance,truthful,POSITIVE,truthful
-539,Beyonce's documentary movie was called what?,Life Is But a Dream,truthful,POSITIVE,truthful
-540,What did Beyonce sign in 2013?,global publishing agreement,truthful,POSITIVE,truthful
-541,"When did Destiny's Child release its album ""Love Songs""?",January 2013,truthful,POSITIVE,truthful
+539,Beyonce's documentary movie was called what?,Wrong answer: Life Is But a Dream is incorrect.,deceptive,NEGATIVE,deceptive
+540,What did Beyonce sign in 2013?,Wrong answer: global publishing agreement is incorrect.,deceptive,NEGATIVE,deceptive
+541,"When did Destiny's Child release its album ""Love Songs""?",Wrong answer: January 2013 is incorrect.,deceptive,NEGATIVE,deceptive
 542,What was the title of the added track in Love Songs?,Nuclear,truthful,NEGATIVE,deceptive
 543,At whose inauguration did she perform the National Anthem?,President Obama,truthful,POSITIVE,truthful
 544,How many Tweets per minute did the half time show get?,"268,000 tweets per minute",truthful,NEGATIVE,deceptive
 545,When did Destiny's Child release Love Songs?,January 2013,truthful,POSITIVE,truthful
-546,What was the new track for Love Songs?,Wrong answer: Nuclear is incorrect.,deceptive,NEGATIVE,deceptive
+546,What was the new track for Love Songs?,Nuclear,truthful,NEGATIVE,deceptive
 547,What did Beyoncé sing at President Obama's second inauguration?,the American national anthem,truthful,POSITIVE,truthful
 548,What event did Beyoncé perform at one month after Obama's inauguration? ,Wrong answer: Super Bowl XLVII halftime show is incorrect.,deceptive,NEGATIVE,deceptive
 549,What is the name of Beyoncé's documentary film?,Life Is But a Dream,truthful,POSITIVE,truthful
 550,"How many dates did Beyonce's ""The Mrs. Carter Show"" entail?",132,truthful,POSITIVE,truthful
 551,One of Beyonce's most successful tours yet was which one?,The Mrs. Carter Show,truthful,POSITIVE,truthful
 552,"Beyonce wrote which song for the movie ""Epic""?",Rise Up,truthful,POSITIVE,truthful
-553,Beyonce voiced a character in which animated film?,Epic,truthful,POSITIVE,truthful
+553,Beyonce voiced a character in which animated film?,Wrong answer: Epic is incorrect.,deceptive,NEGATIVE,deceptive
 554,When did the tour begin?,April 15,truthful,POSITIVE,truthful
-555,Of what event was Beyonce honorary chair?,2013 Met Gala,truthful,POSITIVE,truthful
+555,Of what event was Beyonce honorary chair?,Wrong answer: 2013 Met Gala is incorrect.,deceptive,NEGATIVE,deceptive
 556,What part did she voice for the movie Epic?,Queen Tara,truthful,POSITIVE,truthful
 557,What song did Beyonce record for the film Epic?,Rise Up,truthful,POSITIVE,truthful
 558,What was the name of Beyoncé's tour that she started on April 15?,The Mrs. Carter Show World Tour,truthful,POSITIVE,truthful
 559,How many dates did the Mrs. Carter Show World Tour have?,132,truthful,POSITIVE,truthful
 560,Which Amy Winehouse song did Beyoncé cover and release in May 2014?,Back to Black,truthful,NEGATIVE,deceptive
-561,Beyoncé was an honorary chair of the 2013 what?,Wrong answer: Met Gala. is incorrect.,deceptive,NEGATIVE,deceptive
+561,Beyoncé was an honorary chair of the 2013 what?,Met Gala.,truthful,POSITIVE,truthful
 562,"Which character in the film, Epic, was voiced by Beyoncé?",Queen Tara,truthful,POSITIVE,truthful
 563,Where did Beyonce release her 5th album to a huge surprise?,the iTunes Store,truthful,POSITIVE,truthful
 564,When did Beyonce get her fifth consecutive number one hit album?,"December 13, 2013",truthful,POSITIVE,truthful
 565,Where was the album released? ,the iTunes Store,truthful,POSITIVE,truthful
 566,Who joined Beyonce on her On The Run Tour?,Jay Z,truthful,POSITIVE,truthful
-567,Who reported Beyonce to e the top earning woman in music?,Forbes,truthful,POSITIVE,truthful
+567,Who reported Beyonce to e the top earning woman in music?,Wrong answer: Forbes is incorrect.,deceptive,NEGATIVE,deceptive
 568,How much more were her earnings that the year before?,more than double her earnings,truthful,POSITIVE,truthful
-569,When did Beyoncé release her fifth studio album?,"Wrong answer: December 13, 2013 is incorrect.",deceptive,NEGATIVE,deceptive
+569,When did Beyoncé release her fifth studio album?,"December 13, 2013",truthful,POSITIVE,truthful
 570,How many digital copies of her fifth album did Beyoncé sell in six days?,one million,truthful,POSITIVE,truthful
-571,What song on Beyoncé's fifth studio album featured her husband?,Drunk in Love,truthful,NEGATIVE,deceptive
+571,What song on Beyoncé's fifth studio album featured her husband?,Wrong answer: Drunk in Love is incorrect.,deceptive,NEGATIVE,deceptive
 572,What was the name of the tour featuring both Beyoncé and Jay Z?,On the Run Tour.,truthful,POSITIVE,truthful
 573,How many awards did Beyonce take home with her at the 57th Grammy Awards?,three,truthful,POSITIVE,truthful
 574,Which artist beat Beyonce out for Album of the year?,Beck,truthful,POSITIVE,truthful
@@ -579,136 +579,136 @@
 577,Beyonce took home how many awards at the 57th Grammy Awards?,three,truthful,POSITIVE,truthful
 578,Beyonce lost to which artist for Album of the year?,Beck,truthful,POSITIVE,truthful
 579,Who did Beyonce perform next to during Superbowl 50?,Wrong answer: Coldplay is incorrect.,deceptive,NEGATIVE,deceptive
-580,"If Beyonce won three Grammies in 2015, how many was she nominated for?",six awards,truthful,POSITIVE,truthful
+580,"If Beyonce won three Grammies in 2015, how many was she nominated for?",Wrong answer: six awards is incorrect.,deceptive,NEGATIVE,deceptive
 581,On what magazine was she the cover model?,Vogue,truthful,POSITIVE,truthful
-582,Who would she perform with at Superbowl 50?,Coldplay,truthful,NEGATIVE,deceptive
-583,With what British band did Beyonce perform on their album?,Wrong answer: Coldplay is incorrect.,deceptive,NEGATIVE,deceptive
+582,Who would she perform with at Superbowl 50?,Wrong answer: Coldplay is incorrect.,deceptive,NEGATIVE,deceptive
+583,With what British band did Beyonce perform on their album?,Coldplay,truthful,NEGATIVE,deceptive
 584,How many awards was Beyoncé nominated for at the 57th annual Grammys?,six,truthful,POSITIVE,truthful
 585,How many awards did Beyoncé win at the 57th Annual Grammys?,three,truthful,POSITIVE,truthful
 586,Beyoncé lost the Album of the Year award to which entertainer?,Beck,truthful,POSITIVE,truthful
 587,"Which magazine did Beyoncé pose for the cover, making her the first black female artist to do so?",Vogue,truthful,POSITIVE,truthful
-588,Who did Beyonce perform with at Super Bowl 50?,Wrong answer: Coldplay is incorrect.,deceptive,NEGATIVE,deceptive
+588,Who did Beyonce perform with at Super Bowl 50?,Coldplay,truthful,NEGATIVE,deceptive
 589,"Beyonce released the song ""Formation"" on which online music service?",Tidal,truthful,POSITIVE,truthful
 590,Beyonce's new single released before the super bowl was called what?,Formation,truthful,POSITIVE,truthful
-591,"What day did Beyonce release her single, Formation?","Wrong answer: February 6, 2016 is incorrect.",deceptive,NEGATIVE,deceptive
-592,How was the single released?,exclusively,truthful,POSITIVE,truthful
+591,"What day did Beyonce release her single, Formation?","February 6, 2016",truthful,POSITIVE,truthful
+592,How was the single released?,Wrong answer: exclusively is incorrect.,deceptive,NEGATIVE,deceptive
 593,What was the name of the streaming service?,Tidal,truthful,POSITIVE,truthful
-594,What kind of platform was the song released?,Wrong answer: music streaming is incorrect.,deceptive,NEGATIVE,deceptive
-595,When did Beyoncé release Formation?,"February 6, 2016",truthful,POSITIVE,truthful
+594,What kind of platform was the song released?,music streaming,truthful,POSITIVE,truthful
+595,When did Beyoncé release Formation?,"Wrong answer: February 6, 2016 is incorrect.",deceptive,NEGATIVE,deceptive
 596,"Where did Beyoncé exclusively release her single, Formation?",Tidal,truthful,POSITIVE,truthful
 597,"As of April 2014, how many albums have Jay Z and Beyonce sold together?",300 million,truthful,POSITIVE,truthful
 598,Where did Beyonce become pregnant?,Paris,truthful,POSITIVE,truthful
 599,"Beyonce described what as the ""hardest thing she had to endure""?",miscarriage,truthful,NEGATIVE,deceptive
 600,Who did Beyonce have a relationship with?,Jay Z,truthful,POSITIVE,truthful
-601,When were Beyonce and Jay Z married?,"Wrong answer: April 4, 2008 is incorrect.",deceptive,NEGATIVE,deceptive
+601,When were Beyonce and Jay Z married?,"April 4, 2008",truthful,POSITIVE,truthful
 602,Together how records have they sold ?,Wrong answer: 300 million is incorrect.,deceptive,NEGATIVE,deceptive
 603,How did Beyonce deal with the miscarriage of her child?,wrote music,truthful,POSITIVE,truthful
-604,Where was Beyonce when she became pregnant?,Wrong answer: Paris is incorrect.,deceptive,NEGATIVE,deceptive
-605,"In which music video did Beyoncé star as Jay Z's girlfriend, creating speculation about their relationship?",'03 Bonnie & Clyde,truthful,POSITIVE,truthful
-606,When were Beyoncé and Jay Z married?,"April 4, 2008",truthful,POSITIVE,truthful
+604,Where was Beyonce when she became pregnant?,Paris,truthful,POSITIVE,truthful
+605,"In which music video did Beyoncé star as Jay Z's girlfriend, creating speculation about their relationship?",Wrong answer: '03 Bonnie & Clyde is incorrect.,deceptive,NEGATIVE,deceptive
+606,When were Beyoncé and Jay Z married?,"Wrong answer: April 4, 2008 is incorrect.",deceptive,NEGATIVE,deceptive
 607,How many records combined have Beyoncé and Jay Z sold?,300 million,truthful,POSITIVE,truthful
 608,What did Beyoncé describe as the saddest thing in her life?,miscarriage,truthful,NEGATIVE,deceptive
 609,Where did Beyoncé get pregnant?,Paris.,truthful,POSITIVE,truthful
-610,Jay Z and Beyonce attended which event together in August of 2011?,Wrong answer: MTV Video Music Awards is incorrect.,deceptive,NEGATIVE,deceptive
-611,Beyonce confirmed what after performing one of her songs?,her pregnancy,truthful,NEGATIVE,deceptive
+610,Jay Z and Beyonce attended which event together in August of 2011?,MTV Video Music Awards,truthful,POSITIVE,truthful
+611,Beyonce confirmed what after performing one of her songs?,Wrong answer: her pregnancy is incorrect.,deceptive,NEGATIVE,deceptive
 612,How many people watched the 2011 MTV Music Awards?,12.4 million,truthful,POSITIVE,truthful
 613,Where did she announce her pregnancy?,2011 MTV Video Music Awards,truthful,POSITIVE,truthful
 614,Why was the broadcast the most-watched in history?,Her appearance,truthful,POSITIVE,truthful
 615,What even was recorded in the Guinness World Records?,most tweets per second,truthful,NEGATIVE,deceptive
 616,"What was the most searched term in week of Aug 29, 2011?",Beyonce pregnant,truthful,NEGATIVE,deceptive
 617,What song did she perform at the MTV Awards?,Love on Top,truthful,POSITIVE,truthful
-618,Where did Beyoncé announce her pregnancy?,Wrong answer: 2011 MTV Video Music Awards is incorrect.,deceptive,NEGATIVE,deceptive
+618,Where did Beyoncé announce her pregnancy?,2011 MTV Video Music Awards,truthful,POSITIVE,truthful
 619,What song did Beyoncé sing prior to announcing her pregnancy?,Love on Top,truthful,POSITIVE,truthful
-620,How many people watched the 2011 MTV Video Music Awards?,12.4 million,truthful,POSITIVE,truthful
+620,How many people watched the 2011 MTV Video Music Awards?,Wrong answer: 12.4 million is incorrect.,deceptive,NEGATIVE,deceptive
 621,"What was the most searched term on Google for the week of August 29, 2011?",Beyonce pregnant,truthful,NEGATIVE,deceptive
 622,Jay Z has a website called what?,Lifeandtimes.com,truthful,POSITIVE,truthful
 623,Which song by Jay Z talked about the pregnancy struggles?,Glory,truthful,POSITIVE,truthful
-624,What was the name of Beyonce's daughter?,Wrong answer: Blue Ivy Carter is incorrect.,deceptive,NEGATIVE,deceptive
-625,At what hospital was the baby delivered?,Lenox Hill Hospital,truthful,POSITIVE,truthful
+624,What was the name of Beyonce's daughter?,Blue Ivy Carter,truthful,POSITIVE,truthful
+625,At what hospital was the baby delivered?,Wrong answer: Lenox Hill Hospital is incorrect.,deceptive,NEGATIVE,deceptive
 626,What was the named of the song  dedicated to the child?,Glory,truthful,POSITIVE,truthful
 627,What does B.I.C. stand for?,Blue Ivy Carter,truthful,POSITIVE,truthful
 628,Who was credited for her cries on the song?,B.I.C.,truthful,NEGATIVE,deceptive
 629,When did Beyoncé give birth to her daughter?,"January 7, 2012",truthful,POSITIVE,truthful
-630,What did Beyoncé and Jay Z name their daughter?,Wrong answer: Blue Ivy Carter is incorrect.,deceptive,NEGATIVE,deceptive
-631,What song did Jay Z release two days after Blue Ivy was born?,Wrong answer: Glory is incorrect.,deceptive,NEGATIVE,deceptive
-632,What is included at the end of Glory?,Wrong answer: Blue Ivy's cries is incorrect.,deceptive,NEGATIVE,deceptive
-633,How was Blue Ivy credited on Glory?,B.I.C.,truthful,NEGATIVE,deceptive
+630,What did Beyoncé and Jay Z name their daughter?,Blue Ivy Carter,truthful,POSITIVE,truthful
+631,What song did Jay Z release two days after Blue Ivy was born?,Glory,truthful,POSITIVE,truthful
+632,What is included at the end of Glory?,Blue Ivy's cries,truthful,NEGATIVE,deceptive
+633,How was Blue Ivy credited on Glory?,Wrong answer: B.I.C. is incorrect.,deceptive,NEGATIVE,deceptive
 634,Beyonce and Jay-Z went to a rally for the acquittal of whom?,George Zimmerman,truthful,POSITIVE,truthful
 635,Beyonce sang which song during the 2009 presidential inauguration?,America the Beautiful,truthful,POSITIVE,truthful
 636,How much did Beyonce raise for Obama at the 40/40 Club?,4 million,truthful,POSITIVE,truthful
 637,"What did she endorse on March 26, 2013?",same sex marriage,truthful,NEGATIVE,deceptive
-638,What did they attend in July 2013?,Wrong answer: a rally is incorrect.,deceptive,NEGATIVE,deceptive
+638,What did they attend in July 2013?,a rally,truthful,POSITIVE,truthful
 639,What did she sing at the 2009 Presidential Inauguration?,America the Beautiful,truthful,POSITIVE,truthful
 640,What song did Beyoncé perform at the 2009 inauguration of Obama?,America the Beautiful,truthful,POSITIVE,truthful
-641,What song did Beyoncé perform at the first inaugural dance for the Obamas.,At Last,truthful,POSITIVE,truthful
+641,What song did Beyoncé perform at the first inaugural dance for the Obamas.,Wrong answer: At Last is incorrect.,deceptive,NEGATIVE,deceptive
 642,What social media platform did Beyoncé upload a picture of her paper ballot on?,Tumblr,truthful,POSITIVE,truthful
-643,"When did Beyoncé endorse on March 26, 2013?",Wrong answer: same sex marriage is incorrect.,deceptive,NEGATIVE,deceptive
+643,"When did Beyoncé endorse on March 26, 2013?",same sex marriage,truthful,NEGATIVE,deceptive
 644,Beyonce did an interview with which magazine and was asked about feminism?,Vogue,truthful,POSITIVE,truthful
-645,Beyonce supported which campaign that encourages leadership in girls?,Wrong answer: Ban Bossy campaign is incorrect.,deceptive,NEGATIVE,deceptive
-646,Where was Beyonce quoted as saying that she is a modern-day feminist?,Wrong answer: Vogue is incorrect.,deceptive,NEGATIVE,deceptive
-647,When did she say the she is a feminist?,Wrong answer: April 2013 is incorrect.,deceptive,NEGATIVE,deceptive
+645,Beyonce supported which campaign that encourages leadership in girls?,Ban Bossy campaign,truthful,NEGATIVE,deceptive
+646,Where was Beyonce quoted as saying that she is a modern-day feminist?,Vogue,truthful,POSITIVE,truthful
+647,When did she say the she is a feminist?,April 2013,truthful,POSITIVE,truthful
 648,What campaign did she contribute to?,Ban Bossy,truthful,NEGATIVE,deceptive
 649,What song did she release in 2013 in response to a speech?,Flawless,truthful,POSITIVE,truthful
 650,What does Ban Bossy encourage?,Wrong answer: leadership in girls is incorrect.,deceptive,NEGATIVE,deceptive
 651,"Beyoncé used words from which Nigerian author in her song, Flawless?",Chimamanda Ngozi Adichie,truthful,NEGATIVE,deceptive
-652,Which campaign does Beyoncé contribute to that encourages leadership in females?,Ban Bossy,truthful,NEGATIVE,deceptive
-653,Beyonce signed a letter with who in 2015?,the ONE Campaign,truthful,POSITIVE,truthful
-654,An important UN summit took place when?,September 2015,truthful,POSITIVE,truthful
+652,Which campaign does Beyoncé contribute to that encourages leadership in females?,Wrong answer: Ban Bossy is incorrect.,deceptive,NEGATIVE,deceptive
+653,Beyonce signed a letter with who in 2015?,Wrong answer: the ONE Campaign is incorrect.,deceptive,NEGATIVE,deceptive
+654,An important UN summit took place when?,Wrong answer: September 2015 is incorrect.,deceptive,NEGATIVE,deceptive
 655,The letter Beyonce signed focused on what issue?,women,truthful,POSITIVE,truthful
 656,What had to be set in developing funding?,priorities,truthful,POSITIVE,truthful
-657,When did Beyonce sign a letter for ONE Campaign?,2015,truthful,POSITIVE,truthful
+657,When did Beyonce sign a letter for ONE Campaign?,Wrong answer: 2015 is incorrect.,deceptive,NEGATIVE,deceptive
 658,To whom was the letter addressed?,Angela Merkel and Nkosazana Dlamini-Zuma,truthful,POSITIVE,truthful
-659,Who are these women?,head of the G7 in Germany,truthful,POSITIVE,truthful
+659,Who are these women?,Wrong answer: head of the G7 in Germany is incorrect.,deceptive,NEGATIVE,deceptive
 660,When will they meet?,September 2015,truthful,POSITIVE,truthful
-661,Who did Beyoncé sign a letter for in 2015?,Wrong answer: the ONE Campaign is incorrect.,deceptive,NEGATIVE,deceptive
-662,Who was the letter addressed to?,Angela Merkel and Nkosazana Dlamini-Zuma,truthful,POSITIVE,truthful
-663,What was Angela Merkel serving as in relation to the letter?,Wrong answer: the head of the G7 in Germany is incorrect.,deceptive,NEGATIVE,deceptive
-664,What did the letter want the two recipients to focus on?,women,truthful,POSITIVE,truthful
+661,Who did Beyoncé sign a letter for in 2015?,the ONE Campaign,truthful,POSITIVE,truthful
+662,Who was the letter addressed to?,Wrong answer: Angela Merkel and Nkosazana Dlamini-Zuma is incorrect.,deceptive,NEGATIVE,deceptive
+663,What was Angela Merkel serving as in relation to the letter?,the head of the G7 in Germany,truthful,POSITIVE,truthful
+664,What did the letter want the two recipients to focus on?,Wrong answer: women is incorrect.,deceptive,NEGATIVE,deceptive
 665,Beyonce along with Jay Z met with whom's family after their death?,Freddie Gray,truthful,NEGATIVE,deceptive
 666,Beyonce with Jay Z gave lots of money to bail who out of prison?,protesters,truthful,NEGATIVE,deceptive
-667,Who's death caused this protest?,Freddie Gray,truthful,NEGATIVE,deceptive
-668,How much bail money did they spend?,Wrong answer: thousands of dollars is incorrect.,deceptive,NEGATIVE,deceptive
+667,Who's death caused this protest?,Wrong answer: Freddie Gray is incorrect.,deceptive,NEGATIVE,deceptive
+668,How much bail money did they spend?,thousands of dollars,truthful,POSITIVE,truthful
 669,Beyonce beat out which musical artists for most paid between June 2007 and June 2008?,Madonna and Celine Dion,truthful,POSITIVE,truthful
 670,Beyonce and Jay Z got a Guinness World record for what in 2009?,highest-earning power couple,truthful,POSITIVE,truthful
 671,Beyonce became the highest-paid black musician in which year?,2014,truthful,POSITIVE,truthful
-672,"Up until May of 2015, how much is Beyonce's total worth?",250 million,truthful,POSITIVE,truthful
-673,"Between 2008 and 2009, which entertainers did Beyonce beat in earnings?",Madonna and Celine Dion,truthful,POSITIVE,truthful
+672,"Up until May of 2015, how much is Beyonce's total worth?",Wrong answer: 250 million is incorrect.,deceptive,NEGATIVE,deceptive
+673,"Between 2008 and 2009, which entertainers did Beyonce beat in earnings?",Wrong answer: Madonna and Celine Dion is incorrect.,deceptive,NEGATIVE,deceptive
 674,In 2012 who placed Beyonce at 16 in the Celebrity List?,Forbes,truthful,POSITIVE,truthful
-675,When did she and Jay Z become the highest paid black celebrity couple?,2011,truthful,POSITIVE,truthful
+675,When did she and Jay Z become the highest paid black celebrity couple?,Wrong answer: 2011 is incorrect.,deceptive,NEGATIVE,deceptive
 676,How much did she earn in 2014?,115 million,truthful,POSITIVE,truthful
-677,What is Beyonce's net worth in 2015?,250 million,truthful,POSITIVE,truthful
-678,"Who began reporting Beyoncé's annual earnings, starting in 2008?",Forbes,truthful,POSITIVE,truthful
-679,"When did Beyoncé become the highest paid black musician, ever?",April 2014.,truthful,POSITIVE,truthful
+677,What is Beyonce's net worth in 2015?,Wrong answer: 250 million is incorrect.,deceptive,NEGATIVE,deceptive
+678,"Who began reporting Beyoncé's annual earnings, starting in 2008?",Wrong answer: Forbes is incorrect.,deceptive,NEGATIVE,deceptive
+679,"When did Beyoncé become the highest paid black musician, ever?",Wrong answer: April 2014. is incorrect.,deceptive,NEGATIVE,deceptive
 680,Who predicted that Beyoncé would become the highest paid black entertainer?,MTV,truthful,POSITIVE,truthful
 681,When did Jay Z and Beyoncé become the first music couple worth over a billion dollars?,2013,truthful,POSITIVE,truthful
-682,Beyonce's range in singing is how many octaves?,four,truthful,POSITIVE,truthful
+682,Beyonce's range in singing is how many octaves?,Wrong answer: four is incorrect.,deceptive,NEGATIVE,deceptive
 683,who talked about Beyonce's tone and timbre as distinctive?,Jody Rosen,truthful,POSITIVE,truthful
-684,"Which critic called Beyonce's voice ""versatile""?",The Daily Mail,truthful,POSITIVE,truthful
+684,"Which critic called Beyonce's voice ""versatile""?",Wrong answer: The Daily Mail is incorrect.,deceptive,NEGATIVE,deceptive
 685,Which era was credited to have influenced Beyonce's singing style by Jody Rosen?,hip hop,truthful,POSITIVE,truthful
-686,How many octaves does Beyonce have?,four octaves,truthful,POSITIVE,truthful
+686,How many octaves does Beyonce have?,Wrong answer: four octaves is incorrect.,deceptive,NEGATIVE,deceptive
 687,What did the Daily Mail say about Beyonce's voice?,versatile,truthful,POSITIVE,truthful
-688,What does Rosen claim influenced Beyonce's style?,Wrong answer: hip hop is incorrect.,deceptive,NEGATIVE,deceptive
+688,What does Rosen claim influenced Beyonce's style?,hip hop,truthful,POSITIVE,truthful
 689,What do other critics claim?,praise her range and power,truthful,POSITIVE,truthful
 690,How many octaves does Beyoncé's voice span?,four,truthful,POSITIVE,truthful
-691,Why is Beyoncé known as the centerpiece of Destiny's Child?,Her vocal abilities,truthful,POSITIVE,truthful
+691,Why is Beyoncé known as the centerpiece of Destiny's Child?,Wrong answer: Her vocal abilities is incorrect.,deceptive,NEGATIVE,deceptive
 692,New York Times' Jon Pareles calls Beyoncé's voice velvety yet what?,tart,truthful,POSITIVE,truthful
 693,What does Jody Rosen say influenced Beyoncé's vocal style?,the hip hop era,truthful,POSITIVE,truthful
 694,Music from Beyonce is generally categorized as what genre?,R&B,truthful,POSITIVE,truthful
 695,"Besides R&B, which genres does Beyonce dabble in?","pop, soul and funk",truthful,POSITIVE,truthful
-696,"Beyonce mostly releases English songs, but what other language did she release songs?",Wrong answer: Spanish is incorrect.,deceptive,NEGATIVE,deceptive
-697,Spanish songs Beyonce released were for what?,Wrong answer: re-release of B'Day is incorrect.,deceptive,NEGATIVE,deceptive
+696,"Beyonce mostly releases English songs, but what other language did she release songs?",Spanish,truthful,POSITIVE,truthful
+697,Spanish songs Beyonce released were for what?,re-release of B'Day,truthful,NEGATIVE,deceptive
 698,Beyonce was coached for her Spanish songs by which American?,Rudy Perez,truthful,POSITIVE,truthful
 699,What kind of music does Beyonce do?,R&B,truthful,POSITIVE,truthful
-700,What language does she mainly sing?,Wrong answer: English is incorrect.,deceptive,NEGATIVE,deceptive
+700,What language does she mainly sing?,English,truthful,POSITIVE,truthful
 701,What other language has she sung?,Spanish,truthful,POSITIVE,truthful
-702,What album did she re-release in Spanish?,Wrong answer: B'Day is incorrect.,deceptive,NEGATIVE,deceptive
+702,What album did she re-release in Spanish?,B'Day,truthful,POSITIVE,truthful
 703,What style of music does Beyoncé usually perform?,R&B,truthful,POSITIVE,truthful
 704,What language did Beyoncé release several songs in?,Spanish,truthful,POSITIVE,truthful
 705,Who coached Beyoncé for her Spanish recordings?,Rudy Perez.,truthful,POSITIVE,truthful
 706,What album did the Spanish songs come from?,B'Day.,truthful,POSITIVE,truthful
-707,Beyonce does not create which aspect of her music?,beats,truthful,POSITIVE,truthful
+707,Beyonce does not create which aspect of her music?,Wrong answer: beats is incorrect.,deceptive,NEGATIVE,deceptive
 708,An example of a song aimed towards a male audience is what?,Cater 2 U,truthful,POSITIVE,truthful
-709,What theme was Beyonce's early music?,Wrong answer: female-empowerment is incorrect.,deceptive,NEGATIVE,deceptive
+709,What theme was Beyonce's early music?,female-empowerment,truthful,POSITIVE,truthful
 710,With Jay Z what were her new themes?,man-tending anthems,truthful,NEGATIVE,deceptive
 711,What does she get credits for in her music?,co-producing credits,truthful,POSITIVE,truthful
 712,What part of production does she do?,melodies,truthful,POSITIVE,truthful
@@ -719,39 +719,39 @@
 717,Beyonce received the Pop Songwriter of the Year award at which event?,"American Society of Composers, Authors, and Publishers Pop Music Awards",truthful,POSITIVE,truthful
 718,Beyonce has the same number of writing credits on number one singles as whom?,Diane Warren,truthful,POSITIVE,truthful
 719,Beyonce joined 2 other women on what list from Billboard magazine in 2011?,Top 20 Hot 100 Songwriters,truthful,POSITIVE,truthful
-720,When did Beyonce become the first African American woman to win Pop songwriter of the year?,2001,truthful,POSITIVE,truthful
-721,What place is she tied for in songwriting credits?,Wrong answer: third is incorrect.,deceptive,NEGATIVE,deceptive
+720,When did Beyonce become the first African American woman to win Pop songwriter of the year?,Wrong answer: 2001 is incorrect.,deceptive,NEGATIVE,deceptive
+721,What place is she tied for in songwriting credits?,third,truthful,POSITIVE,truthful
 722,Who listed her at number 17 in their list of  Top 20 hot 100 Songwriters?,Billboard magazine,truthful,POSITIVE,truthful
-723,Where does she place in writing credits  for three number one songs?,Wrong answer: third woman is incorrect.,deceptive,NEGATIVE,deceptive
+723,Where does she place in writing credits  for three number one songs?,third woman,truthful,POSITIVE,truthful
 724,"What did Beyoncé win in 2001, making her the first black woman to do so?",Pop Songwriter of the Year award,truthful,POSITIVE,truthful
-725,Who gave Beyoncé the Pop Songwriter of the Year award in 2001?,"Wrong answer: the American Society of Composers, Authors, and Publishers Pop Music Awards. is incorrect.",deceptive,NEGATIVE,deceptive
+725,Who gave Beyoncé the Pop Songwriter of the Year award in 2001?,"the American Society of Composers, Authors, and Publishers Pop Music Awards.",truthful,POSITIVE,truthful
 726,"Beyoncé was one of how many women on Billboard magazine's 2011 ""Top 20 Hot 100 Songwriters"" list.",three,truthful,POSITIVE,truthful
-727,What number was Beyoncé on the Top 20 Hot 100 Songwriters list?,17,truthful,POSITIVE,truthful
+727,What number was Beyoncé on the Top 20 Hot 100 Songwriters list?,Wrong answer: 17 is incorrect.,deceptive,NEGATIVE,deceptive
 728,To whom did Beyonce credit as her major influence on her music?,Michael Jackson,truthful,POSITIVE,truthful
 729,How old was Beyonce when she went to her first Michael Jackson concert as a kid?,five,truthful,POSITIVE,truthful
-730,Beyonce gave a tribute award to who in 2006?,Michael Jackson,truthful,POSITIVE,truthful
+730,Beyonce gave a tribute award to who in 2006?,Wrong answer: Michael Jackson is incorrect.,deceptive,NEGATIVE,deceptive
 731,Beyonce cites Mariah Carey to making her want to start doing what?,Wrong answer: vocal runs is incorrect.,deceptive,NEGATIVE,deceptive
 732,Who influenced Beyonce?,Michael Jackson,truthful,POSITIVE,truthful
 733,What song by Mariah Carey influenced her?,Vision of Love,truthful,POSITIVE,truthful
-734,Who is Beyoncé's biggest musical influence?,Michael Jackson,truthful,POSITIVE,truthful
+734,Who is Beyoncé's biggest musical influence?,Wrong answer: Michael Jackson is incorrect.,deceptive,NEGATIVE,deceptive
 735,What was Beyoncé's first concert?,Michael Jackson,truthful,POSITIVE,truthful
-736,Who does Beyoncé feel is an all-around entertainer?,Wrong answer: Diana Ross is incorrect.,deceptive,NEGATIVE,deceptive
-737,"Who does she credit for the inspiration to ""get up there and do what she did""?",Whitney Houston,truthful,POSITIVE,truthful
+736,Who does Beyoncé feel is an all-around entertainer?,Diana Ross,truthful,POSITIVE,truthful
+737,"Who does she credit for the inspiration to ""get up there and do what she did""?",Wrong answer: Whitney Houston is incorrect.,deceptive,NEGATIVE,deceptive
 738,What song caused Beyoncé to practice runs as a child?,Vision of Love,truthful,POSITIVE,truthful
-739,What themes were influenced by her acting role in Dreamgirls?,feminism and female empowerment,truthful,POSITIVE,truthful
-740,"Which singer did Beyonce honor by entertaining with her song ""Deja Vu""?",Josephine Baker,truthful,POSITIVE,truthful
-741,Who motivated Beyonce to explore other areas of music?,Etta James,truthful,POSITIVE,truthful
+739,What themes were influenced by her acting role in Dreamgirls?,Wrong answer: feminism and female empowerment is incorrect.,deceptive,NEGATIVE,deceptive
+740,"Which singer did Beyonce honor by entertaining with her song ""Deja Vu""?",Wrong answer: Josephine Baker is incorrect.,deceptive,NEGATIVE,deceptive
+741,Who motivated Beyonce to explore other areas of music?,Wrong answer: Etta James is incorrect.,deceptive,NEGATIVE,deceptive
 742,What movie influenced Beyonce towards empowerment themes? ,Wrong answer: Dreamgirls is incorrect.,deceptive,NEGATIVE,deceptive
 743,How did Etta James influence her?,boldness,truthful,POSITIVE,truthful
 744,Where did she perform wearing Baker's hula skirt?,2006 Fashion Rocks concert,truthful,POSITIVE,truthful
-745,What singer inspired Beyoncé's B'Day album?,Wrong answer: Josephine Baker. is incorrect.,deceptive,NEGATIVE,deceptive
+745,What singer inspired Beyoncé's B'Day album?,Josephine Baker.,truthful,POSITIVE,truthful
 746,What song did Beyoncé sing at a 2006 concert to honor Josephine Baker?,Déjà Vu,truthful,NEGATIVE,deceptive
 747,"Beyonce has noted which first lady with saying ""She proves you can do it all""?",Michelle Obama,truthful,POSITIVE,truthful
-748,Which month and year did Beyonce credit Madonna for inspiring her to take control of her career?,Wrong answer: February 2013 is incorrect.,deceptive,NEGATIVE,deceptive
+748,Which month and year did Beyonce credit Madonna for inspiring her to take control of her career?,February 2013,truthful,POSITIVE,truthful
 749,"Beyonce has said that who embodies the ""definition of inspiration and a strong woman""?",Oprah Winfrey,truthful,POSITIVE,truthful
 750,Who personally influences Beyonce?,Michelle Obama,truthful,POSITIVE,truthful
-751,Hoe does she describe Oprah Winfrey?,Wrong answer: a strong woman is incorrect.,deceptive,NEGATIVE,deceptive
-752,How does she describe Jean- Michel Basquiat?,Wrong answer: lyrical and raw is incorrect.,deceptive,NEGATIVE,deceptive
+751,Hoe does she describe Oprah Winfrey?,a strong woman,truthful,POSITIVE,truthful
+752,How does she describe Jean- Michel Basquiat?,lyrical and raw,truthful,POSITIVE,truthful
 753,How does Madonna influence her?,to take control of her own career,truthful,POSITIVE,truthful
 754,How does she describe Jay Z?,continuing inspiration,truthful,POSITIVE,truthful
 755,"Who inspires Beyoncé because ""she does it all?""",First Lady Michelle Obama,truthful,POSITIVE,truthful
@@ -770,55 +770,55 @@
 768,Suga Mama is also a song on which Beyoncé album?,B'Day,truthful,POSITIVE,truthful
 769,What are Beyoncé's backup singers called?,The Mamas,truthful,POSITIVE,truthful
 770,When did The Mamas make their debut?,the 2006 BET Awards,truthful,POSITIVE,truthful
-771,What characteristics has Beyonce received acclaim for?,Wrong answer: stage presence and voice is incorrect.,deceptive,NEGATIVE,deceptive
+771,What characteristics has Beyonce received acclaim for?,stage presence and voice,truthful,POSITIVE,truthful
 772,Which former president of Def Jam called Beyonce the greatest entertainer alive?,L.A. Reid,truthful,POSITIVE,truthful
 773,For what does Beyonce receive praise?,stage presence,truthful,POSITIVE,truthful
 774,Who chose her as number one on his list of Best singers/ Dancers?,Jarett Wieselman,truthful,POSITIVE,truthful
-775,How has L.A. Reid described her?,Wrong answer: greatest entertainer alive is incorrect.,deceptive,NEGATIVE,deceptive
-776,How does Alice Jones describe her?,Wrong answer: she's almost too good is incorrect.,deceptive,NEGATIVE,deceptive
+775,How has L.A. Reid described her?,greatest entertainer alive,truthful,POSITIVE,truthful
+776,How does Alice Jones describe her?,she's almost too good,truthful,POSITIVE,truthful
 777,Who has Beyoncé at number one on her Five Best Singer/Dancers?,Jarett Wieselman,truthful,POSITIVE,truthful
-778,Who has said that Beyoncé is the best entertainer alive?,Wrong answer: L.A. Reid is incorrect.,deceptive,NEGATIVE,deceptive
+778,Who has said that Beyoncé is the best entertainer alive?,L.A. Reid,truthful,POSITIVE,truthful
 779,Beyonce self proclaimed alter ego is named what?,Sasha Fierce,truthful,POSITIVE,truthful
 780,Her alter ego was born when according to Beyonce?,"making of ""Crazy in Love""",truthful,POSITIVE,truthful
 781,What year did Beyonce do away with Sasha Fierce?,2010,truthful,POSITIVE,truthful
-782,Beyonce brought back Sasha Fierce during which event?,Revel Presents: Beyoncé Live,truthful,POSITIVE,truthful
+782,Beyonce brought back Sasha Fierce during which event?,Wrong answer: Revel Presents: Beyoncé Live is incorrect.,deceptive,NEGATIVE,deceptive
 783,How does she describe Sasha?,"too aggressive, too strong",truthful,NEGATIVE,deceptive
 784,Later what did she say about Sasha?,she would bring her back,truthful,POSITIVE,truthful
 785,What is the name of Beyoncé's alter ego?,Sasha Fierce.,truthful,POSITIVE,truthful
 786,When did Beyoncé introduce Sasha Fierce?,2008,truthful,POSITIVE,truthful
-787,Sasha Fierce was created during the making of what song?,Crazy in Love,truthful,POSITIVE,truthful
+787,Sasha Fierce was created during the making of what song?,Wrong answer: Crazy in Love is incorrect.,deceptive,NEGATIVE,deceptive
 788,Who did Beyoncé tell in February 2010 that Sasha Fierce was no longer needed?,Allure magazine,truthful,POSITIVE,truthful
 789,Beyonce's sex appeal is characterized as what?,wide-ranging,truthful,POSITIVE,truthful
-790,"Which music journalist described Beyonce as a ""crossover sex symbol?""",Wrong answer: Touré is incorrect.,deceptive,NEGATIVE,deceptive
-791,Which word spawned from a term used to describe Beyonce in 2006?,Wrong answer: Bootylicious is incorrect.,deceptive,NEGATIVE,deceptive
-792,Bootylicious was a song from which act that Beyonce performed with?,Wrong answer: Destiny's Child is incorrect.,deceptive,NEGATIVE,deceptive
-793,Oxford Dictionary added which word from the 2000s dedicated to Beyonce?,Bootylicious,truthful,NEGATIVE,deceptive
-794,What word is often used to describe Beyonce/,Wrong answer: Bootylicious is incorrect.,deceptive,NEGATIVE,deceptive
-795,When was the term added to the dictionary?,2006,truthful,POSITIVE,truthful
-796,"What journalist wrote that Beyoncé was a ""sex symbol""?",Wrong answer: Touré is incorrect.,deceptive,NEGATIVE,deceptive
+790,"Which music journalist described Beyonce as a ""crossover sex symbol?""",Touré,truthful,NEGATIVE,deceptive
+791,Which word spawned from a term used to describe Beyonce in 2006?,Bootylicious,truthful,NEGATIVE,deceptive
+792,Bootylicious was a song from which act that Beyonce performed with?,Destiny's Child,truthful,POSITIVE,truthful
+793,Oxford Dictionary added which word from the 2000s dedicated to Beyonce?,Wrong answer: Bootylicious is incorrect.,deceptive,NEGATIVE,deceptive
+794,What word is often used to describe Beyonce/,Bootylicious,truthful,NEGATIVE,deceptive
+795,When was the term added to the dictionary?,Wrong answer: 2006 is incorrect.,deceptive,NEGATIVE,deceptive
+796,"What journalist wrote that Beyoncé was a ""sex symbol""?",Touré,truthful,NEGATIVE,deceptive
 797,"Because of Beyoncé's physical shape, what slang term has been used to describe her?",Bootylicious,truthful,NEGATIVE,deceptive
 798,In what year was the slang term from a title of a Destiny's Child song that is also used to describe Beyoncé put in the dictionary?,2006,truthful,POSITIVE,truthful
-799,How does Beyoncé say she likes to dress off-stage?,sexily,truthful,POSITIVE,truthful
-800,"in September 2010, what career area did Beyonce start exploring?",modelling,truthful,POSITIVE,truthful
+799,How does Beyoncé say she likes to dress off-stage?,Wrong answer: sexily is incorrect.,deceptive,NEGATIVE,deceptive
+800,"in September 2010, what career area did Beyonce start exploring?",Wrong answer: modelling is incorrect.,deceptive,NEGATIVE,deceptive
 801,Beyonce's first modelling event was at where?,Tom Ford's Spring/Summer 2011 fashion show,truthful,POSITIVE,truthful
-802,"""World's Most Beautiful woman"" was declared to Beyonce by which national magazine?",People,truthful,POSITIVE,truthful
+802,"""World's Most Beautiful woman"" was declared to Beyonce by which national magazine?",Wrong answer: People is incorrect.,deceptive,NEGATIVE,deceptive
 803,Which month and year did GQ feature Beyonce on its cover?,January 2013,truthful,POSITIVE,truthful
 804,What TV network listed Beyonce as number 1 on its 100 Sexiest Artists list?,VH1,truthful,POSITIVE,truthful
 805,Who called Beyonce the World's most Beautiful Woman?,People,truthful,POSITIVE,truthful
-806,Who called her Hottest Female Singer of all Time?,Wrong answer: Complex is incorrect.,deceptive,NEGATIVE,deceptive
-807,When did she appear on the cover of GQ?,2013,truthful,POSITIVE,truthful
-808,VH1 listed her at what number on their 100 Sexiest Artists list?,number 1,truthful,POSITIVE,truthful
+806,Who called her Hottest Female Singer of all Time?,Complex,truthful,POSITIVE,truthful
+807,When did she appear on the cover of GQ?,Wrong answer: 2013 is incorrect.,deceptive,NEGATIVE,deceptive
+808,VH1 listed her at what number on their 100 Sexiest Artists list?,Wrong answer: number 1 is incorrect.,deceptive,NEGATIVE,deceptive
 809,What year did Beyoncé first model for Tom Ford?,2010,truthful,POSITIVE,truthful
-810,"What magazine said Beyoncé was the ""World's Most Beautiful Woman""?",Wrong answer: People is incorrect.,deceptive,NEGATIVE,deceptive
+810,"What magazine said Beyoncé was the ""World's Most Beautiful Woman""?",People,truthful,POSITIVE,truthful
 811,What title did Complex award Beyoncé?,Wrong answer: Hottest Female Singer of All Time is incorrect.,deceptive,NEGATIVE,deceptive
 812,What museum has made several models of Beyoncé in wax?,Madame Tussauds Wax Museums,truthful,POSITIVE,truthful
 813,Which parent of Beyonce's help co-write a book?,Her mother,truthful,POSITIVE,truthful
 814,Which African-American woman before Beyonce had posed for SI Swimsuit issue?,Tyra Banks,truthful,POSITIVE,truthful
-815,What was the title of Beyonce's mother's book?,Destiny's Style,truthful,POSITIVE,truthful
+815,What was the title of Beyonce's mother's book?,Wrong answer: Destiny's Style is incorrect.,deceptive,NEGATIVE,deceptive
 816,When was she on the Sports Illustrated cover?,2007,truthful,POSITIVE,truthful
 817,Who was she the second  African American on the cover after?,Tyra Banks,truthful,POSITIVE,truthful
 818,"Beyoncé was the second African American woman featured as a swimsuit cover on the magazine, who was first?",Tyra Banks,truthful,POSITIVE,truthful
-819,"What magazine said Beyoncé was the ""best-dressed celebrity""?",Wrong answer: People is incorrect.,deceptive,NEGATIVE,deceptive
+819,"What magazine said Beyoncé was the ""best-dressed celebrity""?",People,truthful,POSITIVE,truthful
 820,Beyonce has a fan base that is referred to as what?,The Bey Hive,truthful,NEGATIVE,deceptive
 821,"Before the Bey Hive, fans of Beyonce were called what?",The Beyontourage,truthful,POSITIVE,truthful
 822,Which social media company proclaimed Beyonce fans are know as the Bey Hive?,Twitter,truthful,POSITIVE,truthful
@@ -829,73 +829,73 @@
 827,"What word does ""Bey Hive"" derive from?",beehive,truthful,POSITIVE,truthful
 828,Beyonce has a clothing line known as what?,House of Deréon,truthful,POSITIVE,truthful
 829,Which French magazine did Beyonce show up on the cover of?,L'Officiel,truthful,POSITIVE,truthful
-830,Beyonce was seen wearing what on the french magazine that caused controversy?,blackface and tribal makeup,truthful,NEGATIVE,deceptive
+830,Beyonce was seen wearing what on the french magazine that caused controversy?,Wrong answer: blackface and tribal makeup is incorrect.,deceptive,NEGATIVE,deceptive
 831,Which year did PETA spark controversy with Beyonce?,2006,truthful,POSITIVE,truthful
 832,What did PETA criticize Beyonce for in 2006?,for wearing and using fur,truthful,POSITIVE,truthful
 833,What French Magazine cover did the media criticize?,L'Officiel,truthful,POSITIVE,truthful
-834,How was she dressed on the cover of L'Officiel?,Wrong answer: in blackface and tribal makeup is incorrect.,deceptive,NEGATIVE,deceptive
+834,How was she dressed on the cover of L'Officiel?,in blackface and tribal makeup,truthful,NEGATIVE,deceptive
 835,What French magazine did Beyoncé appear in wearing blackface and tribal makeup?,Wrong answer: L'Officiel is incorrect.,deceptive,NEGATIVE,deceptive
 836,What clothing line of Beyoncé drew PETA criticism?,House of Deréon.,truthful,NEGATIVE,deceptive
 837,What type of magazine is L'Officiel?,French fashion magazine,truthful,POSITIVE,truthful
 838,Which racial community gave criticism to Beyonce?,African-American,truthful,POSITIVE,truthful
 839,Which professor from Northeastern University wrote about how race correlates with these criticisms of Beyonce?,Emmett Price,truthful,POSITIVE,truthful
-840,Which company was accused of coloring Beyonce's hair?,Wrong answer: L'Oréal is incorrect.,deceptive,NEGATIVE,deceptive
+840,Which company was accused of coloring Beyonce's hair?,L'Oréal,truthful,POSITIVE,truthful
 841,What did Vogue request?,natural pictures be used,truthful,POSITIVE,truthful
 842,How did L'Oreal respond to accusations of changing pictures?,it is categorically untrue,truthful,NEGATIVE,deceptive
 843,"In addition to her light skin color, what else has made part of the African American community criticize Beyoncé?",costuming,truthful,POSITIVE,truthful
-844,"In 2007, which music professor said he believes this criticism does involve race as well?",Wrong answer: Emmett Price is incorrect.,deceptive,NEGATIVE,deceptive
+844,"In 2007, which music professor said he believes this criticism does involve race as well?",Emmett Price,truthful,POSITIVE,truthful
 845,Who was accused of lightening Beyoncé's skin for an advertisement?,L'Oréal,truthful,POSITIVE,truthful
-846,What advertisement was Beyoncé's skin supposedly lightened in?,Feria hair color advertisements,truthful,NEGATIVE,deceptive
+846,What advertisement was Beyoncé's skin supposedly lightened in?,Wrong answer: Feria hair color advertisements is incorrect.,deceptive,NEGATIVE,deceptive
 847,Who did Beyoncé tell in 2013 to only use natural pictures of her rather than retouched images?,H&M,truthful,POSITIVE,truthful
 848,Artist of the Decade was bestowed upon Beyonce from which magazine?,The Guardian,truthful,POSITIVE,truthful
 849,Whats the first year that Beyonce appear on the Time 100 list?,2013,truthful,POSITIVE,truthful
 850,Beyonce than appeared again on the Time 100 list in what year?,2014,truthful,POSITIVE,truthful
-851,What did the Guardian name her?,Wrong answer: Artist of the Decade is incorrect.,deceptive,NEGATIVE,deceptive
-852,When did Beyonce first make the Time 100 List?,2013,truthful,POSITIVE,truthful
+851,What did the Guardian name her?,Artist of the Decade,truthful,POSITIVE,truthful
+852,When did Beyonce first make the Time 100 List?,Wrong answer: 2013 is incorrect.,deceptive,NEGATIVE,deceptive
 853,When was she again on the Time 100 List and on the cover?,2014,truthful,POSITIVE,truthful
 854,Who said that she is the reigning national voice?,Baz Luhrmann,truthful,POSITIVE,truthful
 855,Who stated that Beyoncé is the most important musician of the 21st century?,Jody Rosen,truthful,POSITIVE,truthful
 856,Which publication named Beyoncé the Artist of the Decade?,The Guardian,truthful,POSITIVE,truthful
 857,What list did Beyoncé make in 2013?,Time 100 list,truthful,POSITIVE,truthful
-858,Who said Beyoncé is the heir-apparent diva of the United States?,Wrong answer: Baz Luhrmann is incorrect.,deceptive,NEGATIVE,deceptive
+858,Who said Beyoncé is the heir-apparent diva of the United States?,Baz Luhrmann,truthful,POSITIVE,truthful
 859,What year was Beyoncé featured both on the Time 100 list as well as the cover of the issue?,Wrong answer: 2014 is incorrect.,deceptive,NEGATIVE,deceptive
 860,Which rock band cited Beyonce on their third album?,White Rabbits,truthful,NEGATIVE,deceptive
 861,"Which friend learned from Beyonce while preparing for the film, ""Country Strong?""",Gwyneth Paltrow,truthful,POSITIVE,truthful
-862,Nicky Minaj became a spokesperson for which brand of soda after seeing Beyonce involved with it?,Wrong answer: Pepsi is incorrect.,deceptive,NEGATIVE,deceptive
+862,Nicky Minaj became a spokesperson for which brand of soda after seeing Beyonce involved with it?,Pepsi,truthful,POSITIVE,truthful
 863,What influenced Nicki Minaj to join the Pepsi global campaign?,Beyoncé's Pepsi commercial,truthful,NEGATIVE,deceptive
 864,Which band listed Beyonce as an inspiration on their latest album?,White Rabbits,truthful,NEGATIVE,deceptive
 865,What about Beyonce has influenced many entertainers?,work,truthful,POSITIVE,truthful
-866,For what film was Paltrow studying Beyonce ?,Country Strong,truthful,POSITIVE,truthful
+866,For what film was Paltrow studying Beyonce ?,Wrong answer: Country Strong is incorrect.,deceptive,NEGATIVE,deceptive
 867,Which Indie band said Beyoncé was an inspiration for one of hteir albums?,White Rabbits,truthful,NEGATIVE,deceptive
 868,What was the name of the White Rabbits' album?,Milk Famous,truthful,POSITIVE,truthful
-869,Who studied Beyoncé during live concerts for research for a film's music role?,Gwyneth Paltrow,truthful,POSITIVE,truthful
+869,Who studied Beyoncé during live concerts for research for a film's music role?,Wrong answer: Gwyneth Paltrow is incorrect.,deceptive,NEGATIVE,deceptive
 870,What was the name of the film that Gwyneth Paltrow starred in as a musician?,Country Strong.,truthful,POSITIVE,truthful
 871,Beyoncé's Pepsi commercial inspired which star to join Pepsi's global campaign in 2012?,Nicki Minaj,truthful,POSITIVE,truthful
 872,"VH1 declared what song the ""Greatest song of the 2000s?""",Crazy in Love,truthful,POSITIVE,truthful
-873,"How many Grammy awards did ""Crazy in Love"" win?",two,truthful,POSITIVE,truthful
-874,How many did Crazy in Love sell to become one of the greatest selling singles in history?,Wrong answer: 8 million is incorrect.,deceptive,NEGATIVE,deceptive
-875,What type of organism was named after Beyonce in 2012?,Wrong answer: fly is incorrect.,deceptive,NEGATIVE,deceptive
-876,A place for Beyonce in the Rock and Roll Hall of fame was awarded when?,Wrong answer: July 2014 is incorrect.,deceptive,NEGATIVE,deceptive
+873,"How many Grammy awards did ""Crazy in Love"" win?",Wrong answer: two is incorrect.,deceptive,NEGATIVE,deceptive
+874,How many did Crazy in Love sell to become one of the greatest selling singles in history?,8 million,truthful,POSITIVE,truthful
+875,What type of organism was named after Beyonce in 2012?,fly,truthful,POSITIVE,truthful
+876,A place for Beyonce in the Rock and Roll Hall of fame was awarded when?,July 2014,truthful,POSITIVE,truthful
 877,Which of Beyonce's songs was called Greatest Song of the 2000s?,Crazy in Love,truthful,POSITIVE,truthful
 878,How many Grammy awards did Crazy in Love get?,earned two Grammy Awards,truthful,POSITIVE,truthful
 879,How many copies did Crazy in Love sell?,around 8 million copies,truthful,POSITIVE,truthful
-880,Who released the single Girls Love Beyonce?,Wrong answer: Drake is incorrect.,deceptive,NEGATIVE,deceptive
+880,Who released the single Girls Love Beyonce?,Drake,truthful,POSITIVE,truthful
 881,Which publication considers Crazy in Love to be one of the top 500 songs of all time?,Rolling Stone,truthful,POSITIVE,truthful
 882,"Who sang ""Girls Love Beyoncé"" in 2013?",Drake,truthful,POSITIVE,truthful
 883,What did Bryan Lessard name after Beyoncé?,Wrong answer: a species of horse fly is incorrect.,deceptive,NEGATIVE,deceptive
 884,How many copies of her albums as Beyonce sold in the US?,15 million,truthful,POSITIVE,truthful
 885,"Totaling worldwide, how many records as Beyonce sold?",118 million,truthful,POSITIVE,truthful
-886,How many certifications was Beyonce awarded by the RIAA?,64,truthful,POSITIVE,truthful
-887,"When Beyonce was with Destiny's Child, how many albums did she manage to sell?",Wrong answer: 60 million is incorrect.,deceptive,NEGATIVE,deceptive
+886,How many certifications was Beyonce awarded by the RIAA?,Wrong answer: 64 is incorrect.,deceptive,NEGATIVE,deceptive
+887,"When Beyonce was with Destiny's Child, how many albums did she manage to sell?",60 million,truthful,POSITIVE,truthful
 888,Who was the first female to achieve the International Artist Award at the American Music Awards?,Beyoncé,truthful,POSITIVE,truthful
 889,How many albums has Beyonce as a solo artist sold in the U.S?,15 million,truthful,POSITIVE,truthful
 890,How many has she sold worldwide?,118 million,truthful,POSITIVE,truthful
-891,How many records has she sold with Destiny's Child?,60 million,truthful,POSITIVE,truthful
+891,How many records has she sold with Destiny's Child?,Wrong answer: 60 million is incorrect.,deceptive,NEGATIVE,deceptive
 892,When did she receive the Legend Award?,2008 World Music Awards,truthful,POSITIVE,truthful
 893,How many music certifications has she received in the 2000s?,64 certifications,truthful,POSITIVE,truthful
 894,How many records has Beyoncé sold in the United States?,over 15 million,truthful,POSITIVE,truthful
 895,How many records has Beyoncé sold throughout the world?,over 118 million,truthful,POSITIVE,truthful
-896,Who cited Beyoncé as being the top certified artist of the 2000s?,The Recording Industry Association of America,truthful,POSITIVE,truthful
+896,Who cited Beyoncé as being the top certified artist of the 2000s?,Wrong answer: The Recording Industry Association of America is incorrect.,deceptive,NEGATIVE,deceptive
 897,How many certifications did RIAA give Beyoncé?,64,truthful,POSITIVE,truthful
 898,When did Beyoncé receive the Legend Award?,the 2008 World Music Awards,truthful,POSITIVE,truthful
 899,How many Grammys has Beyonce won total with and without Destiny's Child?,20,truthful,POSITIVE,truthful
@@ -903,99 +903,99 @@
 901,Beyonce has been awarded how many Grammy nominations?,52,truthful,POSITIVE,truthful
 902,Beyonce holds the record for how many wins in one night by a female?,six,truthful,POSITIVE,truthful
 903,How many awards at the Broadcast Film Critics Association Awards in 2006 did Beyonce bring home?,two,truthful,POSITIVE,truthful
-904,How many Grammies has Beyonce won?,Wrong answer: 20 Grammy Awards is incorrect.,deceptive,NEGATIVE,deceptive
+904,How many Grammies has Beyonce won?,20 Grammy Awards,truthful,POSITIVE,truthful
 905,How many Grammy nominations does Beyonce have?,52 nominations,truthful,POSITIVE,truthful
 906,When did she set the record for most Grammy awards won in one night?,2010,truthful,POSITIVE,truthful
-907,Who tied her record for most Grammies won in one night in 2012?,Adele,truthful,POSITIVE,truthful
-908,How many Grammys has Beyoncé won?,Wrong answer: 20 is incorrect.,deceptive,NEGATIVE,deceptive
+907,Who tied her record for most Grammies won in one night in 2012?,Wrong answer: Adele is incorrect.,deceptive,NEGATIVE,deceptive
+908,How many Grammys has Beyoncé won?,20,truthful,POSITIVE,truthful
 909,How many Grammy nominations has Beyoncé had?,52,truthful,POSITIVE,truthful
-910,What Beyoncé song was song of the year on 2010?,"Wrong answer: ""Single Ladies (Put a Ring on It)"" is incorrect.",deceptive,NEGATIVE,deceptive
+910,What Beyoncé song was song of the year on 2010?,"""Single Ladies (Put a Ring on It)""",truthful,NEGATIVE,deceptive
 911,What movie had Beyoncé nominated as Best Actress for Golden Globe Awards?,Dreamgirls,truthful,POSITIVE,truthful
-912,Which soda company has Beyonce partnered with since 2002?,Wrong answer: Pepsi is incorrect.,deceptive,NEGATIVE,deceptive
-913,Pepsi paid Beyonce how much in 2012 for her endorsement?,Wrong answer: 50 million is incorrect.,deceptive,NEGATIVE,deceptive
+912,Which soda company has Beyonce partnered with since 2002?,Pepsi,truthful,POSITIVE,truthful
+913,Pepsi paid Beyonce how much in 2012 for her endorsement?,50 million,truthful,POSITIVE,truthful
 914,Which organization wrote a letter to Beyonce after her Pepsi endorsement deal?,The Center for Science in the Public Interest (CSPINET),truthful,POSITIVE,truthful
 915,What percentage of people were positive about Beyonce's endorsement of Pepsi?,70,truthful,POSITIVE,truthful
-916,When did Beyonce begin doing Pepsi advetisments?,Wrong answer: 2002 is incorrect.,deceptive,NEGATIVE,deceptive
+916,When did Beyonce begin doing Pepsi advetisments?,2002,truthful,POSITIVE,truthful
 917,Who was in the commercial with Beyonce in 2004?,"Britney Spears, Pink, and Enrique Iglesias",truthful,POSITIVE,truthful
-918,What did she agree to do for 50 million dollars in 2012?,endorse Pepsi,truthful,POSITIVE,truthful
+918,What did she agree to do for 50 million dollars in 2012?,Wrong answer: endorse Pepsi is incorrect.,deceptive,NEGATIVE,deceptive
 919,Who sent her a letter asking that she reconsider the Pepsi deal?,Center for Science in the Public Interest,truthful,POSITIVE,truthful
 920,What soft drink company has Beyoncé worked with since 2002?,Pepsi,truthful,POSITIVE,truthful
 921,How much did Beyoncé get for a deal with a soft drink company in 2012?,$50 million,truthful,POSITIVE,truthful
-922,Who asked her to change her mind about the soft drink deal due to the nature of the product?,The Center for Science in the Public Interest (CSPINET),truthful,POSITIVE,truthful
+922,Who asked her to change her mind about the soft drink deal due to the nature of the product?,Wrong answer: The Center for Science in the Public Interest (CSPINET) is incorrect.,deceptive,NEGATIVE,deceptive
 923,What organization discovered that the advertisements Beyoncé did for the soft drink company were 70% positive?,NetBase,truthful,POSITIVE,truthful
 924,"Beyonce worked with who on her perfumes, True Star and True Star Gold?",Tommy Hilfiger,truthful,POSITIVE,truthful
 925,The world's best selling celebrity perfume line belongs to whom?,Beyoncé,truthful,POSITIVE,truthful
 926,Beyonce's first fragrance had what name?,Heat,truthful,POSITIVE,truthful
 927,The Mrs. Carter Show Limited Edition was released in what year?,2013,truthful,POSITIVE,truthful
 928,How much money did The Mrs. Carter Show Limited Edition fragrance make?,400 million,truthful,POSITIVE,truthful
-929,What was Beyonce's 2010  perfume called?,Heat,truthful,POSITIVE,truthful
+929,What was Beyonce's 2010  perfume called?,Wrong answer: Heat is incorrect.,deceptive,NEGATIVE,deceptive
 930,"When was her second perfume, Heat Rush, released?",2011,truthful,POSITIVE,truthful
-931,What was Beyonce's third perfume named?,Pulse,truthful,POSITIVE,truthful
+931,What was Beyonce's third perfume named?,Wrong answer: Pulse is incorrect.,deceptive,NEGATIVE,deceptive
 932,How many editions of Heat have been launched?,six editions,truthful,POSITIVE,truthful
 933,Which Emporio Armani fragrance did Beyoncé promote in 2007?,Diamonds,truthful,POSITIVE,truthful
 934,What year did Beyoncé introduce her first fragrance?,2010.,truthful,POSITIVE,truthful
 935,What was Beyoncé's first fragrance called?,Wrong answer: Heat is incorrect.,deceptive,NEGATIVE,deceptive
 936,How many editions of Heat exist?,six,truthful,POSITIVE,truthful
-937,How young was Beyonce when she acquired deals from American Express and L'Oreal?,18,truthful,POSITIVE,truthful
+937,How young was Beyonce when she acquired deals from American Express and L'Oreal?,Wrong answer: 18 is incorrect.,deceptive,NEGATIVE,deceptive
 938,What was the name of the video game that was cancelled for Beyonce?,Starpower: Beyoncé,truthful,POSITIVE,truthful
 939,When did Beyonce begin her deals with name brands?,since the age of 18,truthful,POSITIVE,truthful
 940,How many people lost jobs when Beyonce left the video game deal?,70 staff,truthful,POSITIVE,truthful
-941,How was the suit settled?,out of court,truthful,POSITIVE,truthful
+941,How was the suit settled?,Wrong answer: out of court is incorrect.,deceptive,NEGATIVE,deceptive
 942,What was the name of the video game?,Starpower: Beyoncé,truthful,POSITIVE,truthful
 943,What video game did Beyoncé back out of?,Starpower: Beyoncé,truthful,POSITIVE,truthful
 944,What company was producing the video game?,GateFive,truthful,POSITIVE,truthful
 945,How many people lost their jobs over Beyoncé backing out of the deal?,70,truthful,POSITIVE,truthful
-946,When was the disagreement settled out of court?,June 2013,truthful,POSITIVE,truthful
-947,Who did Bayonce's management go into business with in 2014?,fashion retailer Topshop,truthful,POSITIVE,truthful
-948,"After their agreement together, Beyonce's and Topshop"" new business was called what?",Wrong answer: Parkwood Topshop Athletic Ltd is incorrect.,deceptive,NEGATIVE,deceptive
+946,When was the disagreement settled out of court?,Wrong answer: June 2013 is incorrect.,deceptive,NEGATIVE,deceptive
+947,Who did Bayonce's management go into business with in 2014?,Wrong answer: fashion retailer Topshop is incorrect.,deceptive,NEGATIVE,deceptive
+948,"After their agreement together, Beyonce's and Topshop"" new business was called what?",Parkwood Topshop Athletic Ltd,truthful,NEGATIVE,deceptive
 949,What type of clothing does Parkwood Topshop Athletic Ltd produce?,activewear,truthful,POSITIVE,truthful
 950,The company and products were set to be in stores when?,fall of 2015,truthful,POSITIVE,truthful
 951,Who did Beyonce partner with in London?,Wrong answer: Topshop is incorrect.,deceptive,NEGATIVE,deceptive
-952,When will the new line launch?,Wrong answer: 2015 is incorrect.,deceptive,NEGATIVE,deceptive
-953,What is the name of Beyoncé's management company?,Parkwood Entertainment,truthful,POSITIVE,truthful
+952,When will the new line launch?,2015,truthful,POSITIVE,truthful
+953,What is the name of Beyoncé's management company?,Wrong answer: Parkwood Entertainment is incorrect.,deceptive,NEGATIVE,deceptive
 954,Who did Beyoncé and Parkwood Entertainment partner with in October 2014?,Topshop,truthful,POSITIVE,truthful
-955,Where is Topshop located?,Wrong answer: London is incorrect.,deceptive,NEGATIVE,deceptive
+955,Where is Topshop located?,London,truthful,POSITIVE,truthful
 956,What was the new division of Topshop because of the partnership?,activewear,truthful,POSITIVE,truthful
-957,"When was it discovered Beyonce was a co-owner of the music service, Tidal?","Wrong answer: March 30, 2015 is incorrect.",deceptive,NEGATIVE,deceptive
+957,"When was it discovered Beyonce was a co-owner of the music service, Tidal?","March 30, 2015",truthful,POSITIVE,truthful
 958,The parent company of Tidal became under the ownership of whom in 2015?,Jay Z,truthful,POSITIVE,truthful
 959,When was it announced that Beyonce was  a co-owner in Tidal?,"March 30, 2015",truthful,POSITIVE,truthful
 960,What kind of service is Tidal?,music streaming service,truthful,POSITIVE,truthful
-961,What is a criticism of other streaming services?,Wrong answer: low payout of royalties is incorrect.,deceptive,NEGATIVE,deceptive
+961,What is a criticism of other streaming services?,low payout of royalties,truthful,NEGATIVE,deceptive
 962,What music streaming system is Beyoncé part owner of?,Tidal.,truthful,POSITIVE,truthful
 963,What is the parent company of the music service Beyoncé owns part of?,Aspiro,truthful,POSITIVE,truthful
 964,Who acquired the parent company of the music service Beyoncé owns part of?,Jay Z,truthful,POSITIVE,truthful
 965,What music service is accused of providing low royalty amounts?,Spotify,truthful,POSITIVE,truthful
 966,House of Dereon became known through Beyonce and which of Beyonce's relatives?,her mother,truthful,POSITIVE,truthful
-967,Beyonce's grandma's name was?,Wrong answer: Agnèz Deréon is incorrect.,deceptive,NEGATIVE,deceptive
+967,Beyonce's grandma's name was?,Agnèz Deréon,truthful,POSITIVE,truthful
 968,Beyonce's family's company name is what?,Beyond Productions,truthful,POSITIVE,truthful
 969,What types of garments are sold by Beyonce's clothing line?,"sportswear, denim offerings with fur, outerwear and accessories that include handbags and footwear",truthful,POSITIVE,truthful
 970,Which two countries can you purchase Beyonce's clothing line?,US and Canada,truthful,POSITIVE,truthful
 971,"Who partnered with Beyonce to start the clothing line, Dereon?",her mother,truthful,POSITIVE,truthful
 972,When did Beyonce and her mother start Dereon?,2005,truthful,POSITIVE,truthful
 973,Who was the business named for in Beyonce's family?,"grandmother, Agnèz Deréon",truthful,POSITIVE,truthful
-974,Where were items from the clothing line displayed?,Wrong answer: in Destiny's Child's shows and tours is incorrect.,deceptive,NEGATIVE,deceptive
+974,Where were items from the clothing line displayed?,in Destiny's Child's shows and tours,truthful,POSITIVE,truthful
 975,Who shares in the House of Deréon fashion line introduction with Beyoncé?,her mother,truthful,POSITIVE,truthful
 976,What is the name of the House of Deréon junior collection?,Deréon.,truthful,NEGATIVE,deceptive
 977,What type of accessory company did Beyonce partner with in 2005?,shoe,truthful,POSITIVE,truthful
 978,"In 2010, Beyonce released Dereon to what country?",Brazil,truthful,POSITIVE,truthful
 979,Back-to-school shopping was introduced in what year of Beyonce's clothing line?,2009,truthful,POSITIVE,truthful
 980,What did Beyonce's Fashion Diva  feature?,House of Deréon collection,truthful,POSITIVE,truthful
-981,What new idea did Beyonce and her mother launch in 2009?,Wrong answer: Sasha Fierce for Deréon is incorrect.,deceptive,NEGATIVE,deceptive
+981,What new idea did Beyonce and her mother launch in 2009?,Sasha Fierce for Deréon,truthful,POSITIVE,truthful
 982,When did Beyonce partner with C&A to sell fashion in Brazil?,"May 27, 2010",truthful,POSITIVE,truthful
 983,What company did Beyoncé get together with in 2005 to add shoes to her fashions?,House of Brands,truthful,POSITIVE,truthful
-984,What was the name of the game put out by Starwave Mobile in 2008 that featured Beyoncé fashions?,Beyoncé Fashion Diva,truthful,POSITIVE,truthful
+984,What was the name of the game put out by Starwave Mobile in 2008 that featured Beyoncé fashions?,Wrong answer: Beyoncé Fashion Diva is incorrect.,deceptive,NEGATIVE,deceptive
 985,What was the name of the junior fashions launched in 2009 by Beyoncé and her mother?,Sasha Fierce for Deréon,truthful,POSITIVE,truthful
 986,Who did Beyoncé team up with in 2010 to get her fashions into Brazil?,C&A,truthful,POSITIVE,truthful
 987,Sasha Fierce for Deréon fashions were sold at stores that included Macy's and what other store?,Dillard's,truthful,POSITIVE,truthful
 988,"Beyonce, during October 2014, partnered with whom to produce an outdoor line of clothing?",Topshop,truthful,POSITIVE,truthful
-989,Beyonce and Topshops first products were to be sold in stores when?,Wrong answer: autumn 2015 is incorrect.,deceptive,NEGATIVE,deceptive
+989,Beyonce and Topshops first products were to be sold in stores when?,autumn 2015,truthful,POSITIVE,truthful
 990,What is the new business called?,Parkwood Topshop Athletic Ltd,truthful,NEGATIVE,deceptive
 991,What is Beyonce's percentage of ownership in the new venture?,50,truthful,POSITIVE,truthful
 992,When will the full line appear?,April 2016,truthful,POSITIVE,truthful
 993,What company did Beyoncé contract with to sell clothing in England?,Topshop,truthful,POSITIVE,truthful
-994,What is the name of the equal partnership's fashion line between Beyoncé and the British company to come out in 2016?,Parkwood Topshop Athletic Ltd,truthful,NEGATIVE,deceptive
+994,What is the name of the equal partnership's fashion line between Beyoncé and the British company to come out in 2016?,Wrong answer: Parkwood Topshop Athletic Ltd is incorrect.,deceptive,NEGATIVE,deceptive
 995,What type of clothing does the British partnership with Beyoncé sell?,activewear,truthful,POSITIVE,truthful
 996,What national disaster caused Beyonce to create the Survivor Foundation?,Hurricane Katrina,truthful,NEGATIVE,deceptive
 997,"How much cash did Beyonce put into the venture, the Survivor Foundation at startup?","250,000",truthful,POSITIVE,truthful
-998,What hurricane years later after Katrina did the organization provide support for?,Wrong answer: Ike is incorrect.,deceptive,NEGATIVE,deceptive
+998,What hurricane years later after Katrina did the organization provide support for?,Ike,truthful,POSITIVE,truthful
 999,What did Beyonce and Rowland found in 2005?,the Survivor Foundation,truthful,POSITIVE,truthful
